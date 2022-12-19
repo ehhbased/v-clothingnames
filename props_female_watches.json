@@ -599,46 +599,46 @@
     },
     "35": {
         "0": {
-            "GXT": "CLO_X6F_LW_0_0",
-            "Localized": "Silver Beaded Bracelet"
+            "GXT": "CLO_APF_F_1_0",
+            "Localized": "No Shoes"
         },
         "1": {
-            "GXT": "CLO_X6F_LW_0_1",
-            "Localized": "Mono Beaded Bracelet"
+            "GXT": "CLO_APF_F_1_0",
+            "Localized": "No Shoes"
         },
         "2": {
-            "GXT": "CLO_X6F_LW_0_2",
-            "Localized": "Gold Beaded Bracelet"
+            "GXT": "CLO_APF_F_1_0",
+            "Localized": "No Shoes"
         },
         "3": {
-            "GXT": "CLO_X6F_LW_0_3",
-            "Localized": "Rose Beaded Bracelet"
+            "GXT": "CLO_APF_F_1_0",
+            "Localized": "No Shoes"
         },
         "4": {
-            "GXT": "CLO_X6F_LW_0_4",
-            "Localized": "Copper Beaded Bracelet"
+            "GXT": "CLO_APF_F_1_0",
+            "Localized": "No Shoes"
         }
     },
     "36": {
         "0": {
-            "GXT": "CLO_X6F_LW_1_0",
-            "Localized": "Ox Blood Bracelet Ensemble"
+            "GXT": "CLO_EXF_AF_2_0",
+            "Localized": "Tan Walking Boots"
         },
         "1": {
-            "GXT": "CLO_X6F_LW_1_1",
-            "Localized": "Green Bracelet Ensemble"
+            "GXT": "CLO_EXF_AF_2_1",
+            "Localized": "Khaki Walking Boots"
         },
         "2": {
-            "GXT": "CLO_X6F_LW_1_2",
-            "Localized": "Tan Bracelet Ensemble"
+            "GXT": "CLO_EXF_AF_2_1",
+            "Localized": "Khaki Walking Boots"
         },
         "3": {
-            "GXT": "CLO_X6F_LW_1_3",
-            "Localized": "Blush Bracelet Ensemble"
+            "GXT": "CLO_EXF_AF_2_1",
+            "Localized": "Khaki Walking Boots"
         },
         "4": {
-            "GXT": "CLO_X6F_LW_1_4",
-            "Localized": "Dark Bracelet Ensemble"
+            "GXT": "CLO_EXF_AF_2_1",
+            "Localized": "Khaki Walking Boots"
         }
     }
 }

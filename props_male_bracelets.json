@@ -131,104 +131,104 @@
     },
     "11": {
         "0": {
-            "GXT": "CLO_X6M_RW_0_0",
-            "Localized": "Silver Chunky Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "1": {
-            "GXT": "CLO_X6M_RW_0_1",
-            "Localized": "Mono Chunky Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "2": {
-            "GXT": "CLO_X6M_RW_0_2",
-            "Localized": "Gold Chunky Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "3": {
-            "GXT": "CLO_X6M_RW_0_3",
-            "Localized": "Rose Chunky Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "4": {
-            "GXT": "CLO_X6M_RW_0_4",
-            "Localized": "Copper Chunky Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         }
     },
     "12": {
         "0": {
-            "GXT": "CLO_X6M_RW_1_0",
-            "Localized": "Silver Chain Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "1": {
-            "GXT": "CLO_X6M_RW_1_1",
-            "Localized": "Mono Chain Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "2": {
-            "GXT": "CLO_X6M_RW_1_2",
-            "Localized": "Gold Chain Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "3": {
-            "GXT": "CLO_X6M_RW_1_3",
-            "Localized": "Rose Chain Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "4": {
-            "GXT": "CLO_X6M_RW_1_4",
-            "Localized": "Copper Chain Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         }
     },
     "13": {
         "0": {
-            "GXT": "CLO_X6M_RW_2_0",
-            "Localized": "Black Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "1": {
-            "GXT": "CLO_X6M_RW_2_1",
-            "Localized": "Dark Gray Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "2": {
-            "GXT": "CLO_X6M_RW_2_2",
-            "Localized": "Light Gray Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "3": {
-            "GXT": "CLO_X6M_RW_2_3",
-            "Localized": "White Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "4": {
-            "GXT": "CLO_X6M_RW_2_4",
-            "Localized": "Ox Blood Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "5": {
-            "GXT": "CLO_X6M_RW_2_5",
-            "Localized": "Crimson Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "6": {
-            "GXT": "CLO_X6M_RW_2_6",
-            "Localized": "Green Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "7": {
-            "GXT": "CLO_X6M_RW_2_7",
-            "Localized": "Red Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "8": {
-            "GXT": "CLO_X6M_RW_2_8",
-            "Localized": "Orange Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "9": {
-            "GXT": "CLO_X6M_RW_2_9",
-            "Localized": "Mustard Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "10": {
-            "GXT": "CLO_X6M_RW_210",
-            "Localized": "Chestnut Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "11": {
-            "GXT": "CLO_X6M_RW_211",
-            "Localized": "Dark Nut Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "12": {
-            "GXT": "CLO_X6M_RW_212",
-            "Localized": "Blue Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         },
         "13": {
-            "GXT": "CLO_X6M_RW_213",
-            "Localized": "Light Blue Woven Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NONE"
         }
     }
 }

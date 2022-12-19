@@ -773,46 +773,46 @@
     },
     "46": {
         "0": {
-            "GXT": "CLO_X6M_LW_0_0",
-            "Localized": "Silver Beaded Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "1": {
-            "GXT": "CLO_X6M_LW_0_1",
-            "Localized": "Mono Beaded Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "2": {
-            "GXT": "CLO_X6M_LW_0_2",
-            "Localized": "Gold Beaded Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "3": {
-            "GXT": "CLO_X6M_LW_0_3",
-            "Localized": "Rose Beaded Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "4": {
-            "GXT": "CLO_X6M_LW_0_4",
-            "Localized": "Copper Beaded Bracelet"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         }
     },
     "47": {
         "0": {
-            "GXT": "CLO_X6M_LW_1_0",
-            "Localized": "Ox Blood Bracelet Ensemble"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "1": {
-            "GXT": "CLO_X6M_LW_1_1",
-            "Localized": "Green Bracelet Ensemble"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "2": {
-            "GXT": "CLO_X6M_LW_1_2",
-            "Localized": "Tan Bracelet Ensemble"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "3": {
-            "GXT": "CLO_X6M_LW_1_3",
-            "Localized": "Blush Bracelet Ensemble"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         },
         "4": {
-            "GXT": "CLO_X6M_LW_1_4",
-            "Localized": "Dark Bracelet Ensemble"
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         }
     }
 }
