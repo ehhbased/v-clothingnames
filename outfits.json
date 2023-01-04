@@ -1,0 +1,5750 @@
+{
+    "DLC_MP_BUSI_M_OUTFIT_0": {
+        "GXT": "CLO_BUS_M_O_0",
+        "Localized": "The Collegiate"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_1": {
+        "GXT": "CLO_BUS_M_O_1",
+        "Localized": "The Egotist"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_2": {
+        "GXT": "CLO_BUS_M_O_2",
+        "Localized": "The Gentry"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_3": {
+        "GXT": "CLO_BUS_M_O_3",
+        "Localized": "The Country Club"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_4": {
+        "GXT": "CLO_BUS_M_O_4",
+        "Localized": "The Mogul"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_5": {
+        "GXT": "CLO_BUS_M_O_5",
+        "Localized": "The Eccentric"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_6": {
+        "GXT": "CLO_BUS_M_O_6",
+        "Localized": "The Bulldog"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_7": {
+        "GXT": "CLO_BUS_M_O_6",
+        "Localized": "The Bulldog"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_8": {
+        "GXT": "CLO_BUS_M_O_8",
+        "Localized": "The Discoteque"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_9": {
+        "GXT": "CLO_BUS_M_O_9",
+        "Localized": "The Panther"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_10": {
+        "GXT": "CLO_BUS_M_O_9",
+        "Localized": "The Panther"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_11": {
+        "GXT": "CLO_BUS_M_O_11",
+        "Localized": "The Tycoon"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_12": {
+        "GXT": "CLO_BUS_M_O_12",
+        "Localized": "The High Roller"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_13": {
+        "GXT": "CLO_BUS_M_O_13",
+        "Localized": "The Yeehaw"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_14": {
+        "GXT": "CLO_BUS_M_O_13",
+        "Localized": "The Yeehaw"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_15": {
+        "GXT": "CLO_BUS_M_O_13",
+        "Localized": "The Yeehaw"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_16": {
+        "GXT": "CLO_BUS_M_O_16",
+        "Localized": "The Tally-ho"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_17": {
+        "GXT": "CLO_BUS_M_O_17",
+        "Localized": "The European"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_18": {
+        "GXT": "CLO_BUS_M_O_18",
+        "Localized": "The Alligator"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_19": {
+        "GXT": "CLO_BUS_M_O_19",
+        "Localized": "The Victorious"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_20": {
+        "GXT": "CLO_BUS_M_O_20",
+        "Localized": "The Devil Chic"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_21": {
+        "GXT": "CLO_BUS_M_O_21",
+        "Localized": "The Mr Frost"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_22": {
+        "GXT": "CLO_BUS_M_O_22",
+        "Localized": "The Collector"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_23": {
+        "GXT": "CLO_BUS_M_O_22",
+        "Localized": "The Collector"
+    },
+    "DLC_MP_BUSI_M_OUTFIT_24": {
+        "GXT": "CLO_BUS_M_O_24",
+        "Localized": "The Sophisticate"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_0": {
+        "GXT": "CLO_HILF_O_0",
+        "Localized": "The Smooth Black Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_1": {
+        "GXT": "CLO_HILF_O_1",
+        "Localized": "The Smooth Gray Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_2": {
+        "GXT": "CLO_HILF_O_2",
+        "Localized": "The Smooth Navy Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_3": {
+        "GXT": "CLO_HILF_O_3",
+        "Localized": "The Smooth Teal Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_4": {
+        "GXT": "CLO_HILF_O_4",
+        "Localized": "The Smooth Red Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_5": {
+        "GXT": "CLO_HILF_O_5",
+        "Localized": "The Smooth White Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_6": {
+        "GXT": "CLO_HILF_O_6",
+        "Localized": "The Smooth Brown Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_7": {
+        "GXT": "CLO_HILF_O_7",
+        "Localized": "The Sharp Black Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_8": {
+        "GXT": "CLO_HILF_O_8",
+        "Localized": "The Sharp Gray Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_9": {
+        "GXT": "CLO_HILF_O_9",
+        "Localized": "The Sharp Navy Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_10": {
+        "GXT": "CLO_HILF_O_10",
+        "Localized": "The Sharp Teal Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_11": {
+        "GXT": "CLO_HILF_O_11",
+        "Localized": "The Sharp Red Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_12": {
+        "GXT": "CLO_HILF_O_12",
+        "Localized": "The Sharp White Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_13": {
+        "GXT": "CLO_HILF_O_13",
+        "Localized": "The Sharp Brown Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_14": {
+        "GXT": "CLO_HILF_O_14",
+        "Localized": "The Smooth Black Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_15": {
+        "GXT": "CLO_HILF_O_15",
+        "Localized": "The Smooth Gray Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_16": {
+        "GXT": "CLO_HILF_O_16",
+        "Localized": "The Smooth Navy Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_17": {
+        "GXT": "CLO_HILF_O_17",
+        "Localized": "The Smooth Teal Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_18": {
+        "GXT": "CLO_HILF_O_18",
+        "Localized": "The Smooth Red Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_19": {
+        "GXT": "CLO_HILF_O_19",
+        "Localized": "The Smooth White Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_20": {
+        "GXT": "CLO_HILF_O_20",
+        "Localized": "The Smooth Brown Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_21": {
+        "GXT": "CLO_HILF_O_21",
+        "Localized": "The Sharp Black Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_22": {
+        "GXT": "CLO_HILF_O_22",
+        "Localized": "The Sharp Gray Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_23": {
+        "GXT": "CLO_HILF_O_23",
+        "Localized": "The Sharp Navy Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_24": {
+        "GXT": "CLO_HILF_O_24",
+        "Localized": "The Sharp Teal Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_25": {
+        "GXT": "CLO_HILF_O_25",
+        "Localized": "The Sharp Red Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_26": {
+        "GXT": "CLO_HILF_O_26",
+        "Localized": "The Sharp White Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_27": {
+        "GXT": "CLO_HILF_O_27",
+        "Localized": "The Sharp Brown Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_28": {
+        "GXT": "CLO_HILF_O_28",
+        "Localized": "The Smooth Polar Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_29": {
+        "GXT": "CLO_HILF_O_29",
+        "Localized": "The Sharp Polar Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_30": {
+        "GXT": "CLO_HILF_O_30",
+        "Localized": "The Smooth Polar Suit"
+    },
+    "DLC_MP_BUSI2_M_OUTFIT_31": {
+        "GXT": "CLO_HILF_O_31",
+        "Localized": "The Sharp Polar Suit"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_0": {
+        "GXT": "CLO_HP_O_0",
+        "Localized": "The Eco"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_1": {
+        "GXT": "CLO_HP_O_1",
+        "Localized": "The Ironic"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_2": {
+        "GXT": "CLO_HP_O_2",
+        "Localized": "The Aficionado"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_3": {
+        "GXT": "CLO_HP_O_3",
+        "Localized": "The Natural"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_4": {
+        "GXT": "CLO_HP_O_4",
+        "Localized": "The Pop Up"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_5": {
+        "GXT": "CLO_HP_O_5",
+        "Localized": "The Artist"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_6": {
+        "GXT": "CLO_HP_O_6",
+        "Localized": "The Elitist"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_7": {
+        "GXT": "CLO_HP_O_7",
+        "Localized": "The Activist"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_8": {
+        "GXT": "CLO_HP_O_8",
+        "Localized": "The Urban Hippy"
+    },
+    "DLC_MP_HIPS_M_OUTFIT_9": {
+        "GXT": "CLO_HP_O_9",
+        "Localized": "The Fitness"
+    },
+    "DLC_MP_IND_M_OUTFIT_0": {
+        "GXT": "CLO_INDM_O_0",
+        "Localized": "The Stars"
+    },
+    "DLC_MP_IND_M_OUTFIT_1": {
+        "GXT": "CLO_INDM_O_1",
+        "Localized": "The Spangled"
+    },
+    "DLC_MP_IND_M_OUTFIT_2": {
+        "GXT": "CLO_INDM_O_2",
+        "Localized": "The Stripes"
+    },
+    "DLC_MP_IND_M_OUTFIT_3": {
+        "GXT": "CLO_INDM_O_3",
+        "Localized": "The Old Glory"
+    },
+    "DLC_MP_IND_M_OUTFIT_4": {
+        "GXT": "CLO_INDM_O_4",
+        "Localized": "The Soaring Eagle"
+    },
+    "DLC_MP_PILOT_M_OUTFIT_0": {
+        "GXT": "CLO_PIM_O_0",
+        "Localized": "Flight Suit"
+    },
+    "DLC_MP_LTS_M_OUTFIT_0": {
+        "GXT": "CLO_LTSM_O_0",
+        "Localized": "The Heavy Night"
+    },
+    "DLC_MP_LTS_M_OUTFIT_1": {
+        "GXT": "CLO_LTSM_O_1",
+        "Localized": "The Heavy Urban"
+    },
+    "DLC_MP_LTS_M_OUTFIT_2": {
+        "GXT": "CLO_LTSM_O_2",
+        "Localized": "The Heavy Steel"
+    },
+    "DLC_MP_LTS_M_OUTFIT_3": {
+        "GXT": "CLO_LTSM_O_3",
+        "Localized": "The Heavy Tundra"
+    },
+    "DLC_MP_LTS_M_OUTFIT_4": {
+        "GXT": "CLO_LTSM_O_4",
+        "Localized": "The Heavy Forest"
+    },
+    "DLC_MP_LTS_M_OUTFIT_5": {
+        "GXT": "CLO_LTSM_O_5",
+        "Localized": "The Masked Night"
+    },
+    "DLC_MP_LTS_M_OUTFIT_6": {
+        "GXT": "CLO_LTSM_O_6",
+        "Localized": "The Masked Urban"
+    },
+    "DLC_MP_LTS_M_OUTFIT_7": {
+        "GXT": "CLO_LTSM_O_7",
+        "Localized": "The Masked Steel"
+    },
+    "DLC_MP_LTS_M_OUTFIT_8": {
+        "GXT": "CLO_LTSM_O_8",
+        "Localized": "The Masked Tundra"
+    },
+    "DLC_MP_LTS_M_OUTFIT_9": {
+        "GXT": "CLO_LTSM_O_9",
+        "Localized": "The Masked Forest"
+    },
+    "DLC_MP_LTS_M_OUTFIT_10": {
+        "GXT": "CLO_LTSM_O_10",
+        "Localized": "The Night"
+    },
+    "DLC_MP_LTS_M_OUTFIT_11": {
+        "GXT": "CLO_LTSM_O_11",
+        "Localized": "The Urban"
+    },
+    "DLC_MP_LTS_M_OUTFIT_12": {
+        "GXT": "CLO_LTSM_O_12",
+        "Localized": "The Steel"
+    },
+    "DLC_MP_LTS_M_OUTFIT_13": {
+        "GXT": "CLO_LTSM_O_13",
+        "Localized": "The Tundra"
+    },
+    "DLC_MP_LTS_M_OUTFIT_14": {
+        "GXT": "CLO_LTSM_O_14",
+        "Localized": "The Forest"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_0": {
+        "GXT": "CLO_HSTM_O_0",
+        "Localized": "Black Flight Suit"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_10": {
+        "GXT": "CLO_HSTM_O_10",
+        "Localized": "Red Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_11": {
+        "GXT": "CLO_HSTM_O_11",
+        "Localized": "Navy Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_12": {
+        "GXT": "CLO_HSTM_O_12",
+        "Localized": "Green Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_13": {
+        "GXT": "CLO_HSTM_O_13",
+        "Localized": "Gray Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_14": {
+        "GXT": "CLO_HSTM_O_14",
+        "Localized": "Red Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_15": {
+        "GXT": "CLO_HSTM_O_15",
+        "Localized": "Navy Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_16": {
+        "GXT": "CLO_HSTM_O_16",
+        "Localized": "Green Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_17": {
+        "GXT": "CLO_HSTM_O_17",
+        "Localized": "Gray Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_18": {
+        "GXT": "CLO_HSTM_O_18",
+        "Localized": "The Scientist"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_19": {
+        "GXT": "CLO_HSTM_O_19",
+        "Localized": "The Fumigator"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_20": {
+        "GXT": "CLO_HSTM_O_20",
+        "Localized": "The Hazard"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_21": {
+        "GXT": "CLO_HSTM_O_21",
+        "Localized": "The Quarantine"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_A_0": {
+        "GXT": "CLO_HSTM_O_A_0",
+        "Localized": "The Doe"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_A_1": {
+        "GXT": "CLO_HSTM_O_A_1",
+        "Localized": "The Hoodie"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_A_2": {
+        "GXT": "CLO_HSTM_O_A_2",
+        "Localized": "The Norm"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_A_3": {
+        "GXT": "CLO_HSTM_O_A_3",
+        "Localized": "The Carefree"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_B_0": {
+        "GXT": "CLO_HSTM_O_B_0",
+        "Localized": "The Starter"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_B_1": {
+        "GXT": "CLO_HSTM_O_B_1",
+        "Localized": "The Prospect"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_B_2": {
+        "GXT": "CLO_HSTM_O_B_2",
+        "Localized": "The Backup"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_B_3": {
+        "GXT": "CLO_HSTM_O_B_3",
+        "Localized": "The Jump-in"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_C_0": {
+        "GXT": "CLO_HSTM_O_C_0",
+        "Localized": "The Drive-by"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_C_1": {
+        "GXT": "CLO_HSTM_O_C_1",
+        "Localized": "The Brawler"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_C_2": {
+        "GXT": "CLO_HSTM_O_C_2",
+        "Localized": "The Gunslinger"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_C_3": {
+        "GXT": "CLO_HSTM_O_C_3",
+        "Localized": "The Mercenary"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_D_0": {
+        "GXT": "CLO_HSTM_O_D_0",
+        "Localized": "The Skirmish"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_D_1": {
+        "GXT": "CLO_HSTM_O_D_1",
+        "Localized": "The Battle"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_D_2": {
+        "GXT": "CLO_HSTM_O_D_2",
+        "Localized": "The Conflict"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_D_3": {
+        "GXT": "CLO_HSTM_O_D_3",
+        "Localized": "The Fight"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_E_0": {
+        "GXT": "CLO_HSTM_O_E_0",
+        "Localized": "The Full Body"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_E_1": {
+        "GXT": "CLO_HSTM_O_E_1",
+        "Localized": "The Strength"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_E_2": {
+        "GXT": "CLO_HSTM_O_E_2",
+        "Localized": "The Weapon"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_E_3": {
+        "GXT": "CLO_HSTM_O_E_3",
+        "Localized": "The Command"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_F_0": {
+        "GXT": "CLO_HSTM_O_F_0",
+        "Localized": "The Tail"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_F_1": {
+        "GXT": "CLO_HSTM_O_F_1",
+        "Localized": "The Prowler"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_F_2": {
+        "GXT": "CLO_HSTM_O_F_2",
+        "Localized": "The Lurker"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_F_3": {
+        "GXT": "CLO_HSTM_O_F_3",
+        "Localized": "The Robber"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_G_0": {
+        "GXT": "CLO_HSTM_O_G_0",
+        "Localized": "The Guerilla"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_G_1": {
+        "GXT": "CLO_HSTM_O_G_1",
+        "Localized": "The Raid"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_G_2": {
+        "GXT": "CLO_HSTM_O_G_2",
+        "Localized": "The Operative"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_G_3": {
+        "GXT": "CLO_HSTM_O_G_3",
+        "Localized": "The Pincer"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_H_0": {
+        "GXT": "CLO_HSTM_O_H_0",
+        "Localized": "The Bravado"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_H_1": {
+        "GXT": "CLO_HSTM_O_H_1",
+        "Localized": "The Lampadati"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_H_2": {
+        "GXT": "CLO_HSTM_O_H_2",
+        "Localized": "The Pegassi"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_H_3": {
+        "GXT": "CLO_HSTM_O_H_3",
+        "Localized": "The Imponte"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_I_0": {
+        "GXT": "CLO_HSTM_O_I_0",
+        "Localized": "The Buyer"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_I_1": {
+        "GXT": "CLO_HSTM_O_I_1",
+        "Localized": "The Security"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_I_2": {
+        "GXT": "CLO_HSTM_O_I_2",
+        "Localized": "The Manager"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_I_3": {
+        "GXT": "CLO_HSTM_O_I_3",
+        "Localized": "The Consultant"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_J_0": {
+        "GXT": "CLO_HSTM_O_J_0",
+        "Localized": "The Richman"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_J_1": {
+        "GXT": "CLO_HSTM_O_J_1",
+        "Localized": "The Portola"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_J_2": {
+        "GXT": "CLO_HSTM_O_J_2",
+        "Localized": "The Vespucci"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_J_3": {
+        "GXT": "CLO_HSTM_O_J_3",
+        "Localized": "The Rockford"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_K_0": {
+        "GXT": "CLO_HSTM_O_K_0",
+        "Localized": "The Bluffs"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_K_1": {
+        "GXT": "CLO_HSTM_O_K_1",
+        "Localized": "The Burro"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_K_2": {
+        "GXT": "CLO_HSTM_O_K_2",
+        "Localized": "The Alta"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_K_3": {
+        "GXT": "CLO_HSTM_O_K_3",
+        "Localized": "The Yankton"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_L_0": {
+        "GXT": "CLO_HSTM_O_L_0",
+        "Localized": "The Slick"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_L_1": {
+        "GXT": "CLO_HSTM_O_L_1",
+        "Localized": "The Fella"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_L_2": {
+        "GXT": "CLO_HSTM_O_L_2",
+        "Localized": "The Rogue"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_L_3": {
+        "GXT": "CLO_HSTM_O_L_3",
+        "Localized": "The Classic"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_M_0": {
+        "GXT": "CLO_HSTM_O_M_0",
+        "Localized": "The Gala"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_M_1": {
+        "GXT": "CLO_HSTM_O_M_1",
+        "Localized": "The Benefit"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_M_2": {
+        "GXT": "CLO_HSTM_O_M_2",
+        "Localized": "The Dinner"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_M_3": {
+        "GXT": "CLO_HSTM_O_M_3",
+        "Localized": "The Ball"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_N_0": {
+        "GXT": "CLO_HSTM_O_N_0",
+        "Localized": "The Burnout"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_N_1": {
+        "GXT": "CLO_HSTM_O_N_1",
+        "Localized": "The Throttle"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_N_2": {
+        "GXT": "CLO_HSTM_O_N_2",
+        "Localized": "The Metal"
+    },
+    "DLC_MP_HEIST_M_OUTFIT_N_3": {
+        "GXT": "CLO_HSTM_O_N_3",
+        "Localized": "The Club"
+    },
+    "DLC_MP_XMAS2_M_OUTFIT_0": {
+        "GXT": "CLO_X2M_O_0",
+        "Localized": "Red Pajamas"
+    },
+    "DLC_MP_XMAS2_M_OUTFIT_1": {
+        "GXT": "CLO_X2M_O_1",
+        "Localized": "Stripy Pajamas"
+    },
+    "DLC_MP_XMAS2_M_OUTFIT_2": {
+        "GXT": "CLO_X2M_O_2",
+        "Localized": "Winter Pajamas"
+    },
+    "DLC_MP_XMAS2_M_OUTFIT_3": {
+        "GXT": "CLO_X2M_O_3",
+        "Localized": "Festive Pajamas"
+    },
+    "DLC_MP_XMAS2_M_OUTFIT_4": {
+        "GXT": "CLO_X2M_O_4",
+        "Localized": "The Claus"
+    },
+    "DLC_MP_XMAS2_M_OUTFIT_5": {
+        "GXT": "CLO_X2M_O_5",
+        "Localized": "The Elf"
+    },
+    "DLC_MP_XMAS2_M_OUTFIT_6": {
+        "GXT": "CLO_X2M_O_6",
+        "Localized": "The Pudding"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_1": {
+        "GXT": "CLO_LXM_O_1",
+        "Localized": "The Deluxe"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_2": {
+        "GXT": "CLO_LXM_O_2",
+        "Localized": "The Exclusive"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_3": {
+        "GXT": "CLO_LXM_O_3",
+        "Localized": "The Perseus"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_4": {
+        "GXT": "CLO_LXM_O_4",
+        "Localized": "The Flash"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_5": {
+        "GXT": "CLO_LXM_O_5",
+        "Localized": "The Pimp"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_6": {
+        "GXT": "CLO_LXM_O_6",
+        "Localized": "The Talent"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_7": {
+        "GXT": "CLO_LXM_O_7",
+        "Localized": "The Luxor"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_8": {
+        "GXT": "CLO_LXM_O_8",
+        "Localized": "The Refined"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_9": {
+        "GXT": "CLO_LXM_O_9",
+        "Localized": "The Sessanta Nove"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_10": {
+        "GXT": "CLO_LXM_O_10",
+        "Localized": "The Grand"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_11": {
+        "GXT": "CLO_LXM_O_11",
+        "Localized": "The Vogue"
+    },
+    "DLC_MP_LUXE_M_OUTFIT_0": {
+        "GXT": "CLO_LXM_O_0",
+        "Localized": "The Midas"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_0": {
+        "GXT": "CLO_L2M_O_0",
+        "Localized": "The Investor"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_1": {
+        "GXT": "CLO_L2M_O_1",
+        "Localized": "The Mac"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_2": {
+        "GXT": "CLO_L2M_O_2",
+        "Localized": "The Bullion"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_3": {
+        "GXT": "CLO_L2M_O_3",
+        "Localized": "The Baller"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_4": {
+        "GXT": "CLO_L2M_O_4",
+        "Localized": "The Benefactor"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_5": {
+        "GXT": "CLO_L2M_O_5",
+        "Localized": "The Stacks"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_6": {
+        "GXT": "CLO_L2M_O_6",
+        "Localized": "The Leisure"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_7": {
+        "GXT": "CLO_L2M_O_7",
+        "Localized": "The V.I.P."
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_8": {
+        "GXT": "CLO_L2M_O_8",
+        "Localized": "The Jet"
+    },
+    "DLC_MP_LUXE2_M_OUTFIT_9": {
+        "GXT": "CLO_L2M_O_9",
+        "Localized": "The Platinum"
+    },
+    "DLC_MP_LOW_M_OUTFIT_0": {
+        "GXT": "CLO_S1M_O_0",
+        "Localized": "The Wheel"
+    },
+    "DLC_MP_LOW_M_OUTFIT_1": {
+        "GXT": "CLO_S1M_O_1",
+        "Localized": "The Block"
+    },
+    "DLC_MP_LOW_M_OUTFIT_2": {
+        "GXT": "CLO_S1M_O_2",
+        "Localized": "The Trim"
+    },
+    "DLC_MP_LOW_M_OUTFIT_3": {
+        "GXT": "CLO_S1M_O_3",
+        "Localized": "The Low Low"
+    },
+    "DLC_MP_LOW_M_OUTFIT_4": {
+        "GXT": "CLO_S1M_O_4",
+        "Localized": "The Dash"
+    },
+    "DLC_MP_LOW_M_OUTFIT_5": {
+        "GXT": "CLO_S1M_O_5",
+        "Localized": "The Hub"
+    },
+    "DLC_MP_LOW_M_OUTFIT_6": {
+        "GXT": "CLO_S1M_O_6",
+        "Localized": "The Drift"
+    },
+    "DLC_MP_LOW_M_OUTFIT_7": {
+        "GXT": "CLO_S1M_O_7",
+        "Localized": "The Game"
+    },
+    "DLC_MP_XMAS3_M_OUTFIT_0": {
+        "GXT": "CLO_X3M_U_0_0",
+        "Localized": "Bad Santa Costume"
+    },
+    "DLC_MP_XMAS3_M_OUTFIT_1": {
+        "GXT": "CLO_X3M_U_0_1",
+        "Localized": "Dirty Santa Costume"
+    },
+    "DLC_MP_XMAS3_M_OUTFIT_2": {
+        "GXT": "CLO_X3M_U_0_2",
+        "Localized": "Filthy Santa Costume"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_0": {
+        "GXT": "CLO_V2M_O_0",
+        "Localized": "The Amore"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_1": {
+        "GXT": "CLO_V2M_O_1",
+        "Localized": "The Suave"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_2": {
+        "GXT": "CLO_V2M_O_2",
+        "Localized": "The Romeo"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_3": {
+        "GXT": "CLO_V2M_O_3",
+        "Localized": "The Suitor"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_4": {
+        "GXT": "CLO_V2M_O_4",
+        "Localized": "The Beau"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_5": {
+        "GXT": "CLO_V2M_O_5",
+        "Localized": "The Dapper"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_6": {
+        "GXT": "CLO_V2M_O_6",
+        "Localized": "The Leopard"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_7": {
+        "GXT": "CLO_V2M_O_7",
+        "Localized": "The Romantic"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_8": {
+        "GXT": "CLO_V2M_O_8",
+        "Localized": "The Brave"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_9": {
+        "GXT": "CLO_V2M_O_9",
+        "Localized": "The Relaxed"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_10": {
+        "GXT": "CLO_V2M_O_10",
+        "Localized": "The Hunk"
+    },
+    "DLC_MP_VAL2_M_OUTFIT_11": {
+        "GXT": "CLO_V2M_O_11",
+        "Localized": "The Macho"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_0": {
+        "GXT": "CLO_S2M_O_0",
+        "Localized": "The Cholo"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_1": {
+        "GXT": "CLO_S2M_O_1",
+        "Localized": "The Grind"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_2": {
+        "GXT": "CLO_S2M_O_2",
+        "Localized": "The Relax"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_3": {
+        "GXT": "CLO_S2M_O_3",
+        "Localized": "The Cuff"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_4": {
+        "GXT": "CLO_S2M_O_4",
+        "Localized": "The Fresh"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_5": {
+        "GXT": "CLO_S2M_O_5",
+        "Localized": "The Detail"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_6": {
+        "GXT": "CLO_S2M_O_6",
+        "Localized": "The Check"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_7": {
+        "GXT": "CLO_S2M_O_7",
+        "Localized": "The Land"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_8": {
+        "GXT": "CLO_S2M_O_8",
+        "Localized": "The Polo"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_9": {
+        "GXT": "CLO_S2M_O_9",
+        "Localized": "The Loafer"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_10": {
+        "GXT": "CLO_S2M_O_10",
+        "Localized": "The Loose"
+    },
+    "DLC_MP_LOW2_M_OUTFIT_11": {
+        "GXT": "CLO_S2M_O_11",
+        "Localized": "The Donk"
+    },
+    "DLC_MP_JAN_M_OUTFIT_0": {
+        "GXT": "CLO_EXM_OA_0",
+        "Localized": "SecuroServ 1"
+    },
+    "DLC_MP_JAN_M_OUTFIT_2": {
+        "GXT": "CLO_EXM_OA_1",
+        "Localized": "SecuroServ 2"
+    },
+    "DLC_MP_JAN_M_OUTFIT_1": {
+        "GXT": "CLO_EXM_OA_2",
+        "Localized": "SecuroServ 3"
+    },
+    "DLC_MP_JAN_M_OUTFIT_3": {
+        "GXT": "CLO_EXM_OA_3",
+        "Localized": "SecuroServ 4"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_0": {
+        "GXT": "CLO_EXM_OB_0",
+        "Localized": "The Decorated"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_1": {
+        "GXT": "CLO_EXM_OB_1",
+        "Localized": "The Alpha"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_2": {
+        "GXT": "CLO_EXM_OB_2",
+        "Localized": "The Swing"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_3": {
+        "GXT": "CLO_EXM_OB_3",
+        "Localized": "The Prime"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_4": {
+        "GXT": "CLO_EXM_OB_4",
+        "Localized": "The Hide"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_5": {
+        "GXT": "CLO_EXM_OB_5",
+        "Localized": "The Putz"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_6": {
+        "GXT": "CLO_EXM_OB_6",
+        "Localized": "The Dragon"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_7": {
+        "GXT": "CLO_EXM_OB_7",
+        "Localized": "The Militia"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_8": {
+        "GXT": "CLO_EXM_OB_8",
+        "Localized": "The Mellow"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_9": {
+        "GXT": "CLO_EXM_OB_9",
+        "Localized": "The Western"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_10": {
+        "GXT": "CLO_EXM_OB_10",
+        "Localized": "The Elegance"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_11": {
+        "GXT": "CLO_EXM_OB_11",
+        "Localized": "The Hearth"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_12": {
+        "GXT": "CLO_EXM_OB_12",
+        "Localized": "The Valor"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_13": {
+        "GXT": "CLO_EXM_OB_13",
+        "Localized": "The Liberty"
+    },
+    "DLC_MP_EXEC_M_OUTFIT_14": {
+        "GXT": "CLO_EXM_OB_14",
+        "Localized": "The Buzz"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_0": {
+        "GXT": "CLO_STM_O_0",
+        "Localized": "Navy Racing Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_1": {
+        "GXT": "CLO_STM_O_1",
+        "Localized": "Gray Racing Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_2": {
+        "GXT": "CLO_STM_O_2",
+        "Localized": "Red Racing Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_3": {
+        "GXT": "CLO_STM_O_3",
+        "Localized": "Black Racing Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_4": {
+        "GXT": "CLO_STM_O_4",
+        "Localized": "Green Racing Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_5": {
+        "GXT": "CLO_STM_O_5",
+        "Localized": "White Racing Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_6": {
+        "GXT": "CLO_STM_O_6",
+        "Localized": "Green Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_7": {
+        "GXT": "CLO_STM_O_7",
+        "Localized": "Red Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_8": {
+        "GXT": "CLO_STM_O_8",
+        "Localized": "Italian Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_9": {
+        "GXT": "CLO_STM_O_9",
+        "Localized": "Black Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_10": {
+        "GXT": "CLO_STM_O_10",
+        "Localized": "French Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_11": {
+        "GXT": "CLO_STM_O_11",
+        "Localized": "Yellow Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_12": {
+        "GXT": "CLO_STM_O_12",
+        "Localized": "Pink Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_13": {
+        "GXT": "CLO_STM_O_13",
+        "Localized": "Blue Biker Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_14": {
+        "GXT": "CLO_STM_O_14",
+        "Localized": "White Stuntman Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_15": {
+        "GXT": "CLO_STM_O_15",
+        "Localized": "Blue Stuntman Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_16": {
+        "GXT": "CLO_STM_O_16",
+        "Localized": "Red Stuntman Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_17": {
+        "GXT": "CLO_STM_O_17",
+        "Localized": "Black Stuntman Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_18": {
+        "GXT": "CLO_STM_O_18",
+        "Localized": "Pink Stuntman Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_19": {
+        "GXT": "CLO_STM_O_19",
+        "Localized": "Gold Stuntman Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_20": {
+        "GXT": "CLO_STM_O_20",
+        "Localized": "Silver Stuntman Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_E_0": {
+        "GXT": "CLO_STM_O_E_0",
+        "Localized": "White Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_E_1": {
+        "GXT": "CLO_STM_O_E_1",
+        "Localized": "Blue Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_E_2": {
+        "GXT": "CLO_STM_O_E_2",
+        "Localized": "Red Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_E_3": {
+        "GXT": "CLO_STM_O_E_3",
+        "Localized": "Black Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_E_4": {
+        "GXT": "CLO_STM_O_E_4",
+        "Localized": "Pink Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_E_5": {
+        "GXT": "CLO_STM_O_E_5",
+        "Localized": "Gold Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_M_OUTFIT_E_6": {
+        "GXT": "CLO_STM_O_E_6",
+        "Localized": "Silver Jock Cranley Suit"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_0": {
+        "GXT": "CLO_BIM_O_0",
+        "Localized": "Deadline Yellow"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_1": {
+        "GXT": "CLO_BIM_O_1",
+        "Localized": "Deadline Green"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_2": {
+        "GXT": "CLO_BIM_O_2",
+        "Localized": "Deadline Orange"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_3": {
+        "GXT": "CLO_BIM_O_3",
+        "Localized": "Deadline Purple"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_4": {
+        "GXT": "CLO_BIM_O_4",
+        "Localized": "Deadline Pink"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_5": {
+        "GXT": "CLO_BIM_O_5",
+        "Localized": "Deadline Red"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_6": {
+        "GXT": "CLO_BIM_O_6",
+        "Localized": "Deadline Blue"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_7": {
+        "GXT": "CLO_BIM_O_7",
+        "Localized": "Deadline White"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_8": {
+        "GXT": "CLO_BIM_O_8",
+        "Localized": "The Avarus"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_9": {
+        "GXT": "CLO_BIM_O_9",
+        "Localized": "The Wolfsbane"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_10": {
+        "GXT": "CLO_BIM_O_10",
+        "Localized": "The Rat Bike"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_11": {
+        "GXT": "CLO_BIM_O_11",
+        "Localized": "The Chimera"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_12": {
+        "GXT": "CLO_BIM_O_12",
+        "Localized": "The Nightblade"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_13": {
+        "GXT": "CLO_BIM_O_13",
+        "Localized": "The Hakuchou"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_14": {
+        "GXT": "CLO_BIM_O_14",
+        "Localized": "The Blazer"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_15": {
+        "GXT": "CLO_BIM_O_15",
+        "Localized": "The Manchez"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_16": {
+        "GXT": "CLO_BIM_O_16",
+        "Localized": "The Faggio"
+    },
+    "DLC_MP_BIKER_M_OUTFIT_17": {
+        "GXT": "CLO_BIM_O_17",
+        "Localized": "The Zombie"
+    },
+    "DLC_MP_IE_M_OUTFIT_0": {
+        "GXT": "CLO_IEM_O_0",
+        "Localized": "Luminous Bodysuit"
+    },
+    "DLC_MP_IE_M_OUTFIT_1": {
+        "GXT": "CLO_IEM_O_1",
+        "Localized": "Neon Bodysuit"
+    },
+    "DLC_MP_IE_M_OUTFIT_2": {
+        "GXT": "CLO_IEM_O_2",
+        "Localized": "Electric Bodysuit"
+    },
+    "DLC_MP_IE_M_OUTFIT_3": {
+        "GXT": "CLO_IEM_O_3",
+        "Localized": "The Plain Sight"
+    },
+    "DLC_MP_IE_M_OUTFIT_4": {
+        "GXT": "CLO_IEM_O_4",
+        "Localized": "The Smolder"
+    },
+    "DLC_MP_IE_M_OUTFIT_5": {
+        "GXT": "CLO_IEM_O_5",
+        "Localized": "The Dealership"
+    },
+    "DLC_MP_IE_M_OUTFIT_6": {
+        "GXT": "CLO_IEM_O_6",
+        "Localized": "The Bigness"
+    },
+    "DLC_MP_IE_M_OUTFIT_7": {
+        "GXT": "CLO_IEM_O_7",
+        "Localized": "The New Skool"
+    },
+    "DLC_MP_IE_M_OUTFIT_8": {
+        "GXT": "CLO_IEM_O_8",
+        "Localized": "The Hip-Hop"
+    },
+    "DLC_MP_IE_M_OUTFIT_9": {
+        "GXT": "CLO_IEM_O_9",
+        "Localized": "The Gunshow"
+    },
+    "DLC_MP_IE_M_OUTFIT_10": {
+        "GXT": "CLO_IEM_O_10",
+        "Localized": "The Patchwork"
+    },
+    "DLC_MP_IE_M_OUTFIT_11": {
+        "GXT": "CLO_IEM_O_11",
+        "Localized": "The Puff"
+    },
+    "DLC_MP_IE_M_OUTFIT_12": {
+        "GXT": "CLO_IEM_O_12",
+        "Localized": "The Anorak"
+    },
+    "DLC_MP_GR_M_OUTFIT_1": {
+        "GXT": "CLO_GRM_O_1",
+        "Localized": "The Gunfighter"
+    },
+    "DLC_MP_GR_M_OUTFIT_2": {
+        "GXT": "CLO_GRM_O_2",
+        "Localized": "The Armorer"
+    },
+    "DLC_MP_GR_M_OUTFIT_3": {
+        "GXT": "CLO_GRM_O_3",
+        "Localized": "The Big Gun"
+    },
+    "DLC_MP_GR_M_OUTFIT_4": {
+        "GXT": "CLO_GRM_O_4",
+        "Localized": "The Insurgent"
+    },
+    "DLC_MP_GR_M_OUTFIT_5": {
+        "GXT": "CLO_GRM_O_5",
+        "Localized": "The Top Brass"
+    },
+    "DLC_MP_GR_M_OUTFIT_6": {
+        "GXT": "CLO_GRM_O_6",
+        "Localized": "The Sharpshooter"
+    },
+    "DLC_MP_GR_M_OUTFIT_7": {
+        "GXT": "CLO_GRM_O_7",
+        "Localized": "The Pistolsmith"
+    },
+    "DLC_MP_GR_M_OUTFIT_8": {
+        "GXT": "CLO_GRM_O_8",
+        "Localized": "The Hunt"
+    },
+    "DLC_MP_GR_M_OUTFIT_9": {
+        "GXT": "CLO_GRM_O_9",
+        "Localized": "The Firearm"
+    },
+    "DLC_MP_GR_M_OUTFIT_10": {
+        "GXT": "CLO_GRM_O_10",
+        "Localized": "The Stealth"
+    },
+    "DLC_MP_AR_M_OUTFIT_0": {
+        "GXT": "CLO_ARM_O_0",
+        "Localized": "Crowex Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_1": {
+        "GXT": "CLO_ARM_O_1",
+        "Localized": "Flow Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_2": {
+        "GXT": "CLO_ARM_O_2",
+        "Localized": "GoPostal Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_3": {
+        "GXT": "CLO_ARM_O_3",
+        "Localized": "Junk Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_4": {
+        "GXT": "CLO_ARM_O_4",
+        "Localized": "Kronos Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_5": {
+        "GXT": "CLO_ARM_O_5",
+        "Localized": "MeTV Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_6": {
+        "GXT": "CLO_ARM_O_6",
+        "Localized": "Pendulus Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_7": {
+        "GXT": "CLO_ARM_O_7",
+        "Localized": "Redwood Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_8": {
+        "GXT": "CLO_ARM_O_8",
+        "Localized": "eCola Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_9": {
+        "GXT": "CLO_ARM_O_9",
+        "Localized": "CNT Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_10": {
+        "GXT": "CLO_ARM_O_10",
+        "Localized": "Jackal Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_11": {
+        "GXT": "CLO_ARM_O_11",
+        "Localized": "Shark Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_12": {
+        "GXT": "CLO_ARM_O_12",
+        "Localized": "Sprunk Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_13": {
+        "GXT": "CLO_ARM_O_13",
+        "Localized": "Tinkle Racing Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_14": {
+        "GXT": "CLO_ARM_O_14",
+        "Localized": "Black & Yellow Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_15": {
+        "GXT": "CLO_ARM_O_15",
+        "Localized": "White Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_16": {
+        "GXT": "CLO_ARM_O_16",
+        "Localized": "Gray & Navy Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_17": {
+        "GXT": "CLO_ARM_O_17",
+        "Localized": "Dark Blue Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_18": {
+        "GXT": "CLO_ARM_O_18",
+        "Localized": "Brown Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_19": {
+        "GXT": "CLO_ARM_O_19",
+        "Localized": "Wine Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_20": {
+        "GXT": "CLO_ARM_O_20",
+        "Localized": "Orange Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_21": {
+        "GXT": "CLO_ARM_O_21",
+        "Localized": "Yellow Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_22": {
+        "GXT": "CLO_ARM_O_22",
+        "Localized": "Blue Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_23": {
+        "GXT": "CLO_ARM_O_23",
+        "Localized": "Light Blue Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_24": {
+        "GXT": "CLO_ARM_O_24",
+        "Localized": "Brown & Red Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_25": {
+        "GXT": "CLO_ARM_O_25",
+        "Localized": "Gray Woodland Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_26": {
+        "GXT": "CLO_ARM_O_26",
+        "Localized": "Contrast Camo Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_27": {
+        "GXT": "CLO_ARM_O_27",
+        "Localized": "Light Woodland Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_28": {
+        "GXT": "CLO_ARM_O_28",
+        "Localized": "Brown Digital Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_29": {
+        "GXT": "CLO_ARM_O_29",
+        "Localized": "Gray & Black Flight Suit"
+    },
+    "DLC_MP_AR_M_OUTFIT_30": {
+        "GXT": "CLO_ARM_O_30",
+        "Localized": "Pogo Flight Suit"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_0": {
+        "GXT": "CLO_SMM_O_0",
+        "Localized": "The Tank"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_1": {
+        "GXT": "CLO_SMM_O_1",
+        "Localized": "The Reconnaissance"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_2": {
+        "GXT": "CLO_SMM_O_2",
+        "Localized": "The Bodyguard"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_3": {
+        "GXT": "CLO_SMM_O_3",
+        "Localized": "The Militarist"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_4": {
+        "GXT": "CLO_SMM_O_4",
+        "Localized": "The Ace"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_5": {
+        "GXT": "CLO_SMM_O_5",
+        "Localized": "The Under Wraps"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_6": {
+        "GXT": "CLO_SMM_O_6",
+        "Localized": "The Hoodlum"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_7": {
+        "GXT": "CLO_SMM_O_7",
+        "Localized": "The Mack"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_8": {
+        "GXT": "CLO_SMM_O_8",
+        "Localized": "The Red Mist"
+    },
+    "DLC_MP_SMUG_M_OUTFIT_9": {
+        "GXT": "CLO_SMM_O_9",
+        "Localized": "The Casual"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_0": {
+        "GXT": "CLO_H2M_O_S_0",
+        "Localized": "Black Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_1": {
+        "GXT": "CLO_H2M_O_S_1",
+        "Localized": "White Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_2": {
+        "GXT": "CLO_H2M_O_S_2",
+        "Localized": "Blue Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_3": {
+        "GXT": "CLO_H2M_O_S_3",
+        "Localized": "Red Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_4": {
+        "GXT": "CLO_H2M_O_S_4",
+        "Localized": "Cyan Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_5": {
+        "GXT": "CLO_H2M_O_S_5",
+        "Localized": "Lime Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_6": {
+        "GXT": "CLO_H2M_O_S_6",
+        "Localized": "Orange Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_7": {
+        "GXT": "CLO_H2M_O_S_7",
+        "Localized": "Yellow Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_8": {
+        "GXT": "CLO_H2M_O_S_8",
+        "Localized": "Gray & Orange Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_9": {
+        "GXT": "CLO_H2M_O_S_9",
+        "Localized": "Pink Backside Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_10": {
+        "GXT": "CLO_H2M_O_S_10",
+        "Localized": "Teal Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_11": {
+        "GXT": "CLO_H2M_O_S_11",
+        "Localized": "Green Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_12": {
+        "GXT": "CLO_H2M_O_S_12",
+        "Localized": "Bold Orange Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_13": {
+        "GXT": "CLO_H2M_O_S_13",
+        "Localized": "Gray Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_14": {
+        "GXT": "CLO_H2M_O_S_14",
+        "Localized": "White & Orange Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_15": {
+        "GXT": "CLO_H2M_O_S_15",
+        "Localized": "Sky Blue Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_16": {
+        "GXT": "CLO_H2M_O_S_16",
+        "Localized": "Tiger Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_17": {
+        "GXT": "CLO_H2M_O_S_17",
+        "Localized": "Gray Camo Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_18": {
+        "GXT": "CLO_H2M_O_S_18",
+        "Localized": "Splinter Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_19": {
+        "GXT": "CLO_H2M_O_S_19",
+        "Localized": "Bold Red Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_20": {
+        "GXT": "CLO_H2M_O_S_20",
+        "Localized": "Turquoise Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_SCUBA_21": {
+        "GXT": "CLO_H2M_O_S_21",
+        "Localized": "Bold Abstract Scuba"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_0": {
+        "GXT": "CLO_X17M_O_M_0",
+        "Localized": "Green Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_1": {
+        "GXT": "CLO_X17M_O_M_1",
+        "Localized": "Orange Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_2": {
+        "GXT": "CLO_X17M_O_M_2",
+        "Localized": "Blue Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_3": {
+        "GXT": "CLO_X17M_O_M_3",
+        "Localized": "Pink Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_4": {
+        "GXT": "CLO_X17M_O_M_4",
+        "Localized": "Yellow Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_5": {
+        "GXT": "CLO_X17M_O_M_5",
+        "Localized": "Dark Reindeer Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_6": {
+        "GXT": "CLO_X17M_O_M_6",
+        "Localized": "Light Reindeer Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_7": {
+        "GXT": "CLO_X17M_O_M_7",
+        "Localized": "Light Gingerbread Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_8": {
+        "GXT": "CLO_X17M_O_M_8",
+        "Localized": "Dark Gingerbread Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_9": {
+        "GXT": "CLO_X17M_O_M_9",
+        "Localized": "Santa Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_10": {
+        "GXT": "CLO_X17M_O_M_10",
+        "Localized": "Green Elf Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_MORPH_11": {
+        "GXT": "CLO_X17M_O_M_11",
+        "Localized": "Red Elf Bodysuit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_0": {
+        "GXT": "CLO_H2M_O_G_0",
+        "Localized": "Tan Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_1": {
+        "GXT": "CLO_H2M_O_G_1",
+        "Localized": "Charcoal Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_2": {
+        "GXT": "CLO_H2M_O_G_2",
+        "Localized": "Ash Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_3": {
+        "GXT": "CLO_H2M_O_G_3",
+        "Localized": "Gray Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_4": {
+        "GXT": "CLO_H2M_O_G_4",
+        "Localized": "Mocha Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_5": {
+        "GXT": "CLO_H2M_O_G_5",
+        "Localized": "Brown Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_6": {
+        "GXT": "CLO_H2M_O_G_6",
+        "Localized": "Rust Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_7": {
+        "GXT": "CLO_H2M_O_G_7",
+        "Localized": "Brushstroke Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_8": {
+        "GXT": "CLO_H2M_O_G_8",
+        "Localized": "Blue Camo Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_9": {
+        "GXT": "CLO_H2M_O_G_9",
+        "Localized": "Cyan Camo Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_10": {
+        "GXT": "CLO_H2M_O_G_10",
+        "Localized": "Pink Camo Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_11": {
+        "GXT": "CLO_H2M_O_G_11",
+        "Localized": "White Camo Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_12": {
+        "GXT": "CLO_H2M_O_G_12",
+        "Localized": "Blue & Brown Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_13": {
+        "GXT": "CLO_H2M_O_G_13",
+        "Localized": "Dark Blue & Brown Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_14": {
+        "GXT": "CLO_H2M_O_G_14",
+        "Localized": "Gray & Orange Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_15": {
+        "GXT": "CLO_H2M_O_G_15",
+        "Localized": "Light Blue Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_16": {
+        "GXT": "CLO_H2M_O_G_16",
+        "Localized": "Orange Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_17": {
+        "GXT": "CLO_H2M_O_G_17",
+        "Localized": "Red Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_18": {
+        "GXT": "CLO_H2M_O_G_18",
+        "Localized": "Moss Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_19": {
+        "GXT": "CLO_H2M_O_G_19",
+        "Localized": "Dark Blue Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_20": {
+        "GXT": "CLO_H2M_O_G_20",
+        "Localized": "Fall Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_21": {
+        "GXT": "CLO_H2M_O_G_21",
+        "Localized": "Splinter Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_22": {
+        "GXT": "CLO_H2M_O_G_22",
+        "Localized": "White & Red Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_23": {
+        "GXT": "CLO_H2M_O_G_23",
+        "Localized": "Black & Red Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_24": {
+        "GXT": "CLO_H2M_O_G_24",
+        "Localized": "Black & Blue Gorka Suit"
+    },
+    "DLC_MP_X17_M_OUTFIT_GORKA_25": {
+        "GXT": "CLO_H2M_O_G_25",
+        "Localized": "Chocolate Gorka Suit"
+    },
+    "DLC_MP_ASS_M_OUTFIT_0": {
+        "GXT": "CLO_ASSM_O_0",
+        "Localized": "Blue Classic Racing Suit"
+    },
+    "DLC_MP_ASS_M_OUTFIT_1": {
+        "GXT": "CLO_ASSM_O_1",
+        "Localized": "Red Classic Racing Suit"
+    },
+    "DLC_MP_ASS_M_OUTFIT_2": {
+        "GXT": "CLO_ASSM_O_2",
+        "Localized": "White Classic Racing Suit"
+    },
+    "DLC_MP_ASS_M_OUTFIT_3": {
+        "GXT": "CLO_ASSM_O_3",
+        "Localized": "Green Classic Racing Suit"
+    },
+    "DLC_MP_ASS_M_OUTFIT_4": {
+        "GXT": "CLO_ASSM_O_4",
+        "Localized": "Orange Classic Racing Suit"
+    },
+    "DLC_MP_ASS_M_OUTFIT_5": {
+        "GXT": "CLO_ASSM_O_5",
+        "Localized": "Purple Classic Racing Suit"
+    },
+    "DLC_MP_ASS_M_OUTFIT_6": {
+        "GXT": "CLO_ASSM_O_6",
+        "Localized": "Pink Classic Racing Suit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_A_0": {
+        "GXT": "CLO_X5M_O_A_0",
+        "Localized": "Yellow Reindeer Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_A_1": {
+        "GXT": "CLO_X5M_O_A_1_b",
+        "Localized": "Traditional Festive Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_A_2": {
+        "GXT": "CLO_X5M_O_A_2",
+        "Localized": "Green Reindeer Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_A_3": {
+        "GXT": "CLO_X5M_O_A_3_b",
+        "Localized": "Neon Festive Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_0": {
+        "GXT": "CLO_AWM_O_B_0",
+        "Localized": "Yellow Robot Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_1": {
+        "GXT": "CLO_AWM_O_B_1",
+        "Localized": "Blue Robot Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_2": {
+        "GXT": "CLO_AWM_O_B_2",
+        "Localized": "Blue Hero Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_3": {
+        "GXT": "CLO_AWM_O_B_3",
+        "Localized": "Red Hero Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_4": {
+        "GXT": "CLO_AWM_O_B_4",
+        "Localized": "Green Shapes Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_5": {
+        "GXT": "CLO_AWM_O_B_5",
+        "Localized": "Purple Shapes Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_6": {
+        "GXT": "CLO_AWM_O_B_6",
+        "Localized": "Blue & Pink Contours Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_7": {
+        "GXT": "CLO_AWM_O_B_7",
+        "Localized": "Red & Green Contours Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_8": {
+        "GXT": "CLO_AWM_O_B_8",
+        "Localized": "Green Martian Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_9": {
+        "GXT": "CLO_AWM_O_B_9",
+        "Localized": "Purple Martian Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_10": {
+        "GXT": "CLO_AWM_O_B_10",
+        "Localized": "Blue Reptile Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_11": {
+        "GXT": "CLO_AWM_O_B_11",
+        "Localized": "Red Reptile Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_12": {
+        "GXT": "CLO_AWM_O_B_12",
+        "Localized": "Blue Galaxy Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_13": {
+        "GXT": "CLO_AWM_O_B_13",
+        "Localized": "Pink Galaxy Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_14": {
+        "GXT": "CLO_AWM_O_B_14",
+        "Localized": "Red & Blue Nebula Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_MORPH_B_15": {
+        "GXT": "CLO_AWM_O_B_15",
+        "Localized": "Blue & Green Nebula Bodysuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_0": {
+        "GXT": "CLO_AWM_O_C_0",
+        "Localized": "Green & Yellow Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_1": {
+        "GXT": "CLO_AWM_O_C_1",
+        "Localized": "Orange Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_2": {
+        "GXT": "CLO_AWM_O_C_2",
+        "Localized": "Flesh Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_3": {
+        "GXT": "CLO_AWM_O_C_3",
+        "Localized": "Light Blue Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_4": {
+        "GXT": "CLO_AWM_O_C_4",
+        "Localized": "Purple Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_5": {
+        "GXT": "CLO_AWM_O_C_5",
+        "Localized": "Green Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_6": {
+        "GXT": "CLO_AWM_O_C_6",
+        "Localized": "Blue Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_7": {
+        "GXT": "CLO_AWM_O_C_7",
+        "Localized": "Blue & Yellow Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_8": {
+        "GXT": "CLO_AWM_O_C_8",
+        "Localized": "Red Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_9": {
+        "GXT": "CLO_AWM_O_C_9",
+        "Localized": "Pink & Blue Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_10": {
+        "GXT": "CLO_AWM_O_C_10",
+        "Localized": "Pink & Yellow Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_A_11": {
+        "GXT": "CLO_AWM_O_C_11",
+        "Localized": "Dark Green Space Creature"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_0": {
+        "GXT": "CLO_AWM_O_D_0",
+        "Localized": "Green & Yellow Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_1": {
+        "GXT": "CLO_AWM_O_D_1",
+        "Localized": "Orange Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_2": {
+        "GXT": "CLO_AWM_O_D_2",
+        "Localized": "Flesh Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_3": {
+        "GXT": "CLO_AWM_O_D_3",
+        "Localized": "Light Blue Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_4": {
+        "GXT": "CLO_AWM_O_D_4",
+        "Localized": "Purple Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_5": {
+        "GXT": "CLO_AWM_O_D_5",
+        "Localized": "Green Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_6": {
+        "GXT": "CLO_AWM_O_D_6",
+        "Localized": "Blue Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_7": {
+        "GXT": "CLO_AWM_O_D_7",
+        "Localized": "Blue & Yellow Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_8": {
+        "GXT": "CLO_AWM_O_D_8",
+        "Localized": "Red Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_9": {
+        "GXT": "CLO_AWM_O_D_9",
+        "Localized": "Pink & Blue Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_10": {
+        "GXT": "CLO_AWM_O_D_10",
+        "Localized": "Pink & Yellow Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_B_11": {
+        "GXT": "CLO_AWM_O_D_11",
+        "Localized": "Dark Green Space Cyclops"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_0": {
+        "GXT": "CLO_AWM_O_E_0",
+        "Localized": "Green & Yellow Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_1": {
+        "GXT": "CLO_AWM_O_E_1",
+        "Localized": "Orange Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_2": {
+        "GXT": "CLO_AWM_O_E_2",
+        "Localized": "Flesh Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_3": {
+        "GXT": "CLO_AWM_O_E_3",
+        "Localized": "Light Blue Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_4": {
+        "GXT": "CLO_AWM_O_E_4",
+        "Localized": "Purple Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_5": {
+        "GXT": "CLO_AWM_O_E_5",
+        "Localized": "Green Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_6": {
+        "GXT": "CLO_AWM_O_E_6",
+        "Localized": "Blue Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_7": {
+        "GXT": "CLO_AWM_O_E_7",
+        "Localized": "Blue & Yellow Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_8": {
+        "GXT": "CLO_AWM_O_E_8",
+        "Localized": "Red Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_9": {
+        "GXT": "CLO_AWM_O_E_9",
+        "Localized": "Pink & Blue Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_10": {
+        "GXT": "CLO_AWM_O_E_10",
+        "Localized": "Pink & Yellow Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_ALIEN_C_11": {
+        "GXT": "CLO_AWM_O_E_11",
+        "Localized": "Dark Green Space Horror"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_0": {
+        "GXT": "CLO_AWM_O_F_0",
+        "Localized": "Red Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_1": {
+        "GXT": "CLO_AWM_O_F_1",
+        "Localized": "Yellow Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_2": {
+        "GXT": "CLO_AWM_O_F_2",
+        "Localized": "Teal Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_3": {
+        "GXT": "CLO_AWM_O_F_3",
+        "Localized": "Brown Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_4": {
+        "GXT": "CLO_AWM_O_F_4",
+        "Localized": "Crowex Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_5": {
+        "GXT": "CLO_AWM_O_F_5",
+        "Localized": "Blue Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_6": {
+        "GXT": "CLO_AWM_O_F_6",
+        "Localized": "White & Blue Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_7": {
+        "GXT": "CLO_AWM_O_F_7",
+        "Localized": "Black & Orange Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_8": {
+        "GXT": "CLO_AWM_O_F_8",
+        "Localized": "Red & Orange Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_9": {
+        "GXT": "CLO_AWM_O_F_9",
+        "Localized": "Green Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_14": {
+        "GXT": "CLO_AWM_O_F_14",
+        "Localized": "Sessanta Nove Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_15": {
+        "GXT": "CLO_AWM_O_F_15",
+        "Localized": "Santo Capra Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_16": {
+        "GXT": "CLO_AWM_O_F_16",
+        "Localized": "Black Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_A_17": {
+        "GXT": "CLO_AWM_O_F_17",
+        "Localized": "Gray Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_0": {
+        "GXT": "CLO_AWM_O_G_0",
+        "Localized": "White Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_1": {
+        "GXT": "CLO_AWM_O_G_1",
+        "Localized": "Tan Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_2": {
+        "GXT": "CLO_AWM_O_G_2",
+        "Localized": "Green Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_3": {
+        "GXT": "CLO_AWM_O_G_3",
+        "Localized": "Brown Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_4": {
+        "GXT": "CLO_AWM_O_G_4",
+        "Localized": "Orange Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_5": {
+        "GXT": "CLO_AWM_O_G_5",
+        "Localized": "Yellow Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_6": {
+        "GXT": "CLO_AWM_O_G_6",
+        "Localized": "Gray Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_B_7": {
+        "GXT": "CLO_AWM_O_G_7",
+        "Localized": "Ash Astronaut"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_0": {
+        "GXT": "CLO_AWM_O_H_0",
+        "Localized": "White Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_1": {
+        "GXT": "CLO_AWM_O_H_1",
+        "Localized": "Black Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_2": {
+        "GXT": "CLO_AWM_O_H_2",
+        "Localized": "Red Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_3": {
+        "GXT": "CLO_AWM_O_H_3",
+        "Localized": "Yellow Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_4": {
+        "GXT": "CLO_AWM_O_H_4",
+        "Localized": "Navy Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_5": {
+        "GXT": "CLO_AWM_O_H_5",
+        "Localized": "Green Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_6": {
+        "GXT": "CLO_AWM_O_H_6",
+        "Localized": "Gray Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_7": {
+        "GXT": "CLO_AWM_O_H_7",
+        "Localized": "White & Yellow Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_8": {
+        "GXT": "CLO_AWM_O_H_8",
+        "Localized": "White & Green Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_SPACE_C_9": {
+        "GXT": "CLO_AWM_O_H_9",
+        "Localized": "Pink Space Traveler"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_CHARACTERS_A_0": {
+        "GXT": "CLO_AWM_O_I_0",
+        "Localized": "The Rookie"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_CHARACTERS_A_1": {
+        "GXT": "CLO_AWM_O_I_1",
+        "Localized": "Pogo Space Monkey"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_CHARACTERS_A_2": {
+        "GXT": "CLO_AWM_O_I_2",
+        "Localized": "Republican Space Ranger"
+    },
+    "DLC_MP_ARENA_M_OUTFIT_EPSILON_0": {
+        "GXT": "CLO_AWM_O_J_0",
+        "Localized": "Epsilon Robes"
+    },
+    "DLC_MP_VWD_M_OUTFIT_IMPRAGE_0": {
+        "GXT": "CLO_VWM_O_0_0",
+        "Localized": "The Impotent Rage"
+    },
+    "DLC_MP_VWD_M_OUTFIT_HIGHROLL_0": {
+        "GXT": "CLO_VWM_O_1_0",
+        "Localized": "The High Roller"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_11": {
+        "GXT": "CLO_H3M_O_DL_11",
+        "Localized": "The Careful"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_12": {
+        "GXT": "CLO_H3M_O_DL_12",
+        "Localized": "The Cautious"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_13": {
+        "GXT": "CLO_H3M_O_DL_13",
+        "Localized": "The Considered"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_14": {
+        "GXT": "CLO_H3M_O_DL_14",
+        "Localized": "The Strict"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_15": {
+        "GXT": "CLO_H3M_O_DL_15",
+        "Localized": "The Correct"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_16": {
+        "GXT": "CLO_H3M_O_DL_16",
+        "Localized": "The Particular"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_21": {
+        "GXT": "CLO_H3M_O_DL_21",
+        "Localized": "The Swanky"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_22": {
+        "GXT": "CLO_H3M_O_DL_22",
+        "Localized": "The Smart"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_23": {
+        "GXT": "CLO_H3M_O_DL_23",
+        "Localized": "The Neat"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_24": {
+        "GXT": "CLO_H3M_O_DL_24",
+        "Localized": "The Spruce"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_25": {
+        "GXT": "CLO_H3M_O_DL_25",
+        "Localized": "The Dashing"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_26": {
+        "GXT": "CLO_H3M_O_DL_26",
+        "Localized": "The Trendy"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_31": {
+        "GXT": "CLO_H3M_O_DL_31",
+        "Localized": "The Proper"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_32": {
+        "GXT": "CLO_H3M_O_DL_32",
+        "Localized": "The Stiff"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_33": {
+        "GXT": "CLO_H3M_O_DL_33",
+        "Localized": "The Prim"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_34": {
+        "GXT": "CLO_H3M_O_DL_34",
+        "Localized": "The Starched"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_35": {
+        "GXT": "CLO_H3M_O_DL_35",
+        "Localized": "The Orderly"
+    },
+    "DLC_MP_H3_M_OUTFIT_DL_36": {
+        "GXT": "CLO_H3M_O_DL_36",
+        "Localized": "The Demure"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_11": {
+        "GXT": "CLO_H3M_O_DH_11",
+        "Localized": "The Woods"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_12": {
+        "GXT": "CLO_H3M_O_DH_12",
+        "Localized": "The Desert"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_13": {
+        "GXT": "CLO_H3M_O_DH_13",
+        "Localized": "The Icefield"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_14": {
+        "GXT": "CLO_H3M_O_DH_14",
+        "Localized": "The Grassland"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_15": {
+        "GXT": "CLO_H3M_O_DH_15",
+        "Localized": "The Glacier"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_16": {
+        "GXT": "CLO_H3M_O_DH_16",
+        "Localized": "The Swamp"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_21": {
+        "GXT": "CLO_H3M_O_DH_21",
+        "Localized": "The Shielded"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_22": {
+        "GXT": "CLO_H3M_O_DH_22",
+        "Localized": "The Safeguard"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_23": {
+        "GXT": "CLO_H3M_O_DH_23",
+        "Localized": "The Fortified"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_24": {
+        "GXT": "CLO_H3M_O_DH_24",
+        "Localized": "The Defended"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_25": {
+        "GXT": "CLO_H3M_O_DH_25",
+        "Localized": "The Secured"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_26": {
+        "GXT": "CLO_H3M_O_DH_26",
+        "Localized": "The Braced"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_31": {
+        "GXT": "CLO_H3M_O_DH_31",
+        "Localized": "The Traverser"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_32": {
+        "GXT": "CLO_H3M_O_DH_32",
+        "Localized": "The Navigator"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_33": {
+        "GXT": "CLO_H3M_O_DH_33",
+        "Localized": "The Router"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_34": {
+        "GXT": "CLO_H3M_O_DH_34",
+        "Localized": "The Wayfarer"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_35": {
+        "GXT": "CLO_H3M_O_DH_35",
+        "Localized": "The Surveyor"
+    },
+    "DLC_MP_H3_M_OUTFIT_DH_36": {
+        "GXT": "CLO_H3M_O_DH_36",
+        "Localized": "The Roamer"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_11": {
+        "GXT": "CLO_H3M_O_SH_11",
+        "Localized": "The Conspirator"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_12": {
+        "GXT": "CLO_H3M_O_SH_12",
+        "Localized": "The Accomplice"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_13": {
+        "GXT": "CLO_H3M_O_SH_13",
+        "Localized": "The Schemer"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_14": {
+        "GXT": "CLO_H3M_O_SH_14",
+        "Localized": "The Associate"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_15": {
+        "GXT": "CLO_H3M_O_SH_15",
+        "Localized": "The Intriguer"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_16": {
+        "GXT": "CLO_H3M_O_SH_16",
+        "Localized": "The Infiltrator"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_21": {
+        "GXT": "CLO_H3M_O_SH_21",
+        "Localized": "The Scout"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_22": {
+        "GXT": "CLO_H3M_O_SH_22",
+        "Localized": "The Mole"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_23": {
+        "GXT": "CLO_H3M_O_SH_23",
+        "Localized": "The Watcher"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_24": {
+        "GXT": "CLO_H3M_O_SH_24",
+        "Localized": "The Vanguard"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_25": {
+        "GXT": "CLO_H3M_O_SH_25",
+        "Localized": "The Planter"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_26": {
+        "GXT": "CLO_H3M_O_SH_26",
+        "Localized": "The Disposer"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_31": {
+        "GXT": "CLO_H3M_O_SH_31",
+        "Localized": "The Shadow"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_32": {
+        "GXT": "CLO_H3M_O_SH_32",
+        "Localized": "The Blotted"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_33": {
+        "GXT": "CLO_H3M_O_SH_33",
+        "Localized": "The Eclipsed"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_34": {
+        "GXT": "CLO_H3M_O_SH_34",
+        "Localized": "The Obscure"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_35": {
+        "GXT": "CLO_H3M_O_SH_35",
+        "Localized": "The Concealed"
+    },
+    "DLC_MP_H3_M_OUTFIT_SH_36": {
+        "GXT": "CLO_H3M_O_SH_36",
+        "Localized": "The Shade"
+    },
+    "DLC_MP_H3_M_OUTFIT_FIB_1": {
+        "GXT": "CLO_H3M_O_FIB_1",
+        "Localized": "The Negotiator"
+    },
+    "DLC_MP_H3_M_OUTFIT_FIB_2": {
+        "GXT": "CLO_H3M_O_FIB_2",
+        "Localized": "The Mediator"
+    },
+    "DLC_MP_H3_M_OUTFIT_FIB_3": {
+        "GXT": "CLO_H3M_O_FIB_3",
+        "Localized": "The Facilitator"
+    },
+    "DLC_MP_H3_M_OUTFIT_FIB_4": {
+        "GXT": "CLO_H3M_O_FIB_4",
+        "Localized": "The Arbitrator"
+    },
+    "DLC_MP_H3_M_OUTFIT_UND_1": {
+        "GXT": "CLO_H3M_O_UND_1",
+        "Localized": "The Ominous"
+    },
+    "DLC_MP_H3_M_OUTFIT_PRP_1": {
+        "GXT": "CLO_H3M_O_PRP_1",
+        "Localized": "The Pickup"
+    },
+    "DLC_MP_H3_M_OUTFIT_PRP_2": {
+        "GXT": "CLO_H3M_O_PRP_2",
+        "Localized": "The Remover"
+    },
+    "DLC_MP_H3_M_OUTFIT_JAN_1": {
+        "GXT": "CLO_H3M_O_JAN_1",
+        "Localized": "The Mender"
+    },
+    "DLC_MP_H3_M_OUTFIT_JAN_2": {
+        "GXT": "CLO_H3M_O_JAN_2",
+        "Localized": "The Sustainer"
+    },
+    "DLC_MP_H3_M_OUTFIT_JAN_3": {
+        "GXT": "CLO_H3M_O_JAN_3",
+        "Localized": "The Obligor"
+    },
+    "DLC_MP_H3_M_OUTFIT_JAN_4": {
+        "GXT": "CLO_H3M_O_JAN_4",
+        "Localized": "The Corrector"
+    },
+    "DLC_MP_H3_M_OUTFIT_JAN_5": {
+        "GXT": "CLO_H3M_O_JAN_5",
+        "Localized": "The Renovator"
+    },
+    "DLC_MP_H3_M_OUTFIT_JAN_6": {
+        "GXT": "CLO_H3M_O_JAN_6",
+        "Localized": "The Welder"
+    },
+    "DLC_MP_H3_M_OUTFIT_CLB_1": {
+        "GXT": "CLO_H3M_O_CLB_1",
+        "Localized": "The Trending"
+    },
+    "DLC_MP_H3_M_OUTFIT_CLB_2": {
+        "GXT": "CLO_H3M_O_CLB_2",
+        "Localized": "The In"
+    },
+    "DLC_MP_H3_M_OUTFIT_CLB_3": {
+        "GXT": "CLO_H3M_O_CLB_3",
+        "Localized": "The Personality"
+    },
+    "DLC_MP_H3_M_OUTFIT_CLB_4": {
+        "GXT": "CLO_H3M_O_CLB_4",
+        "Localized": "The Face"
+    },
+    "DLC_MP_H3_M_OUTFIT_GRP_1": {
+        "GXT": "CLO_H3M_O_GRP_1",
+        "Localized": "The Rigid"
+    },
+    "DLC_MP_H3_M_OUTFIT_GRP_2": {
+        "GXT": "CLO_H3M_O_GRP_2",
+        "Localized": "The Imposer"
+    },
+    "DLC_MP_H3_M_OUTFIT_GRP_3": {
+        "GXT": "CLO_H3M_O_GRP_3",
+        "Localized": "The Shatterproof"
+    },
+    "DLC_MP_H3_M_OUTFIT_GRP_4": {
+        "GXT": "CLO_H3M_O_GRP_4",
+        "Localized": "The Defender"
+    },
+    "DLC_MP_H3_M_OUTFIT_GRP_5": {
+        "GXT": "CLO_H3M_O_GRP_5",
+        "Localized": "The Unbreakable"
+    },
+    "DLC_MP_H3_M_OUTFIT_GRP_6": {
+        "GXT": "CLO_H3M_O_GRP_6",
+        "Localized": "The Enactor"
+    },
+    "DLC_MP_H3_M_OUTFIT_BS_1": {
+        "GXT": "CLO_H3M_O_BS_1",
+        "Localized": "The Debugger"
+    },
+    "DLC_MP_H3_M_OUTFIT_BS_2": {
+        "GXT": "CLO_H3M_O_BS_2",
+        "Localized": "The Sprayer"
+    },
+    "DLC_MP_H3_M_OUTFIT_BS_3": {
+        "GXT": "CLO_H3M_O_BS_3",
+        "Localized": "The Compressor"
+    },
+    "DLC_MP_H3_M_OUTFIT_BS_4": {
+        "GXT": "CLO_H3M_O_BS_4",
+        "Localized": "The Depositor"
+    },
+    "DLC_MP_H3_M_OUTFIT_BS_5": {
+        "GXT": "CLO_H3M_O_BS_5",
+        "Localized": "The Bagger"
+    },
+    "DLC_MP_H3_M_OUTFIT_BS_6": {
+        "GXT": "CLO_H3M_O_BS_6",
+        "Localized": "The Eradicator"
+    },
+    "DLC_MP_H3_M_OUTFIT_FF_1": {
+        "GXT": "CLO_H3M_O_FF_1",
+        "Localized": "The Intrepid"
+    },
+    "DLC_MP_H3_M_OUTFIT_FF_2": {
+        "GXT": "CLO_H3M_O_FF_2",
+        "Localized": "The Valiant"
+    },
+    "DLC_MP_H3_M_OUTFIT_FF_7": {
+        "GXT": "CLO_H3M_O_FF_7",
+        "Localized": "The Steady"
+    },
+    "DLC_MP_H3_M_OUTFIT_FF_8": {
+        "GXT": "CLO_H3M_O_FF_8",
+        "Localized": "The Unwavering"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_11": {
+        "GXT": "CLO_H3M_O_SL_11",
+        "Localized": "The Sneaker"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_12": {
+        "GXT": "CLO_H3M_O_SL_12",
+        "Localized": "The Creeper"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_13": {
+        "GXT": "CLO_H3M_O_SL_13",
+        "Localized": "The Slinker"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_14": {
+        "GXT": "CLO_H3M_O_SL_14",
+        "Localized": "The Lifter"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_15": {
+        "GXT": "CLO_H3M_O_SL_15",
+        "Localized": "The Pilferer"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_16": {
+        "GXT": "CLO_H3M_O_SL_16",
+        "Localized": "The Skulker"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_21": {
+        "GXT": "CLO_H3M_O_SL_21",
+        "Localized": "The Shady"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_22": {
+        "GXT": "CLO_H3M_O_SL_22",
+        "Localized": "The Underhanded"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_23": {
+        "GXT": "CLO_H3M_O_SL_23",
+        "Localized": "The Suspect"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_24": {
+        "GXT": "CLO_H3M_O_SL_24",
+        "Localized": "The Dodgy"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_25": {
+        "GXT": "CLO_H3M_O_SL_25",
+        "Localized": "The Dubious"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_26": {
+        "GXT": "CLO_H3M_O_SL_26",
+        "Localized": "The Unsavoury"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_31": {
+        "GXT": "CLO_H3M_O_SL_31",
+        "Localized": "The Unmoved"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_32": {
+        "GXT": "CLO_H3M_O_SL_32",
+        "Localized": "The Untraceable"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_33": {
+        "GXT": "CLO_H3M_O_SL_33",
+        "Localized": "The No-Frills"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_34": {
+        "GXT": "CLO_H3M_O_SL_34",
+        "Localized": "The Routine"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_35": {
+        "GXT": "CLO_H3M_O_SL_35",
+        "Localized": "The Smooth"
+    },
+    "DLC_MP_H3_M_OUTFIT_SL_36": {
+        "GXT": "CLO_H3M_O_SL_36",
+        "Localized": "The Offhand"
+    },
+    "DLC_MP_H3_M_OUTFIT_VAL_1": {
+        "GXT": "CLO_H3M_O_VAL_1",
+        "Localized": "Valet"
+    },
+    "DLC_MP_H3_M_OUTFIT_PR_1": {
+        "GXT": "CLO_H3M_O_PR_1",
+        "Localized": "The Steadfast"
+    },
+    "DLC_MP_H3_M_OUTFIT_PR_2": {
+        "GXT": "CLO_H3M_O_PR_2",
+        "Localized": "The No-Nonsense"
+    },
+    "DLC_MP_H3_M_OUTFIT_PR_3": {
+        "GXT": "CLO_H3M_O_PR_3",
+        "Localized": "The Austere"
+    },
+    "DLC_MP_H3_M_OUTFIT_PR_4": {
+        "GXT": "CLO_H3M_O_PR_4",
+        "Localized": "The Exacting"
+    },
+    "DLC_MP_SUM_M_OUTFIT_0": {
+        "GXT": "CLO_SUM_O_0",
+        "Localized": "NULL"
+    },
+    "DLC_MP_SUM_M_OUTFIT_1": {
+        "GXT": "CLO_SUM_O_1",
+        "Localized": "Space Interloper"
+    },
+    "DLC_MP_SUM_M_OUTFIT_2": {
+        "GXT": "CLO_SUM_O_2",
+        "Localized": "Yacht Captain"
+    },
+    "DLC_MP_H4_M_OUTFIT_SM_M1": {
+        "GXT": "CLO_H4M_O_SM_M1",
+        "Localized": "The Big Dog"
+    },
+    "DLC_MP_H4_M_OUTFIT_SM_M2": {
+        "GXT": "CLO_H4M_O_SM_M2",
+        "Localized": "The City Slicker"
+    },
+    "DLC_MP_H4_M_OUTFIT_SM_M3": {
+        "GXT": "CLO_H4M_O_SM_M3",
+        "Localized": "The Smart Casual"
+    },
+    "DLC_MP_H4_M_OUTFIT_SM_M4": {
+        "GXT": "CLO_H4M_O_SM_M4",
+        "Localized": "The Standby"
+    },
+    "DLC_MP_H4_M_OUTFIT_H1_M1": {
+        "GXT": "CLO_H4M_O_H1_M1",
+        "Localized": "The Newbie"
+    },
+    "DLC_MP_H4_M_OUTFIT_H1_M2": {
+        "GXT": "CLO_H4M_O_H1_M2",
+        "Localized": "The Polished"
+    },
+    "DLC_MP_H4_M_OUTFIT_H1_M3": {
+        "GXT": "CLO_H4M_O_H1_M3",
+        "Localized": "The Star"
+    },
+    "DLC_MP_H4_M_OUTFIT_H1_M4": {
+        "GXT": "CLO_H4M_O_H1_M4",
+        "Localized": "The Visionary"
+    },
+    "DLC_MP_H4_M_OUTFIT_H2_M1": {
+        "GXT": "CLO_H4M_O_H2_M1",
+        "Localized": "The Naturalist"
+    },
+    "DLC_MP_H4_M_OUTFIT_H2_M2": {
+        "GXT": "CLO_H4M_O_H2_M2",
+        "Localized": "The Tracker"
+    },
+    "DLC_MP_H4_M_OUTFIT_H2_M3": {
+        "GXT": "CLO_H4M_O_H2_M3",
+        "Localized": "The Coordinator"
+    },
+    "DLC_MP_H4_M_OUTFIT_H2_M4": {
+        "GXT": "CLO_H4M_O_H2_M4",
+        "Localized": "The Analyst"
+    },
+    "DLC_MP_H4_M_OUTFIT_L1_M1": {
+        "GXT": "CLO_H4M_O_L1_M1",
+        "Localized": "The Islander"
+    },
+    "DLC_MP_H4_M_OUTFIT_L1_M2": {
+        "GXT": "CLO_H4M_O_L1_M2",
+        "Localized": "The Beached"
+    },
+    "DLC_MP_H4_M_OUTFIT_L1_M3": {
+        "GXT": "CLO_H4M_O_L1_M3",
+        "Localized": "The Fanboy"
+    },
+    "DLC_MP_H4_M_OUTFIT_L1_M4": {
+        "GXT": "CLO_H4M_O_L1_M4",
+        "Localized": "The Lounger"
+    },
+    "DLC_MP_H4_M_OUTFIT_L2_M1": {
+        "GXT": "CLO_H4M_O_L2_M1",
+        "Localized": "The Logician"
+    },
+    "DLC_MP_H4_M_OUTFIT_L2_M2": {
+        "GXT": "CLO_H4M_O_L2_M2",
+        "Localized": "The Escapologist"
+    },
+    "DLC_MP_H4_M_OUTFIT_L2_M3": {
+        "GXT": "CLO_H4M_O_L2_M3",
+        "Localized": "The Pugilist"
+    },
+    "DLC_MP_H4_M_OUTFIT_L2_M4": {
+        "GXT": "CLO_H4M_O_L2_M4",
+        "Localized": "The Agitator"
+    },
+    "DLC_MP_H4_M_OUTFIT_S1_M1": {
+        "GXT": "CLO_H4M_O_S1_M1",
+        "Localized": "The Spectre"
+    },
+    "DLC_MP_H4_M_OUTFIT_S1_M2": {
+        "GXT": "CLO_H4M_O_S1_M2",
+        "Localized": "The Culprit"
+    },
+    "DLC_MP_H4_M_OUTFIT_S1_M3": {
+        "GXT": "CLO_H4M_O_S1_M3",
+        "Localized": "The Sleuth"
+    },
+    "DLC_MP_H4_M_OUTFIT_S1_M4": {
+        "GXT": "CLO_H4M_O_S1_M4",
+        "Localized": "The Deflector"
+    },
+    "DLC_MP_H4_M_OUTFIT_S2_M1": {
+        "GXT": "CLO_H4M_O_S2_M1",
+        "Localized": "The Python"
+    },
+    "DLC_MP_H4_M_OUTFIT_S2_M2": {
+        "GXT": "CLO_H4M_O_S2_M2",
+        "Localized": "The Jaguar"
+    },
+    "DLC_MP_H4_M_OUTFIT_S2_M3": {
+        "GXT": "CLO_H4M_O_S2_M3",
+        "Localized": "The Caiman"
+    },
+    "DLC_MP_H4_M_OUTFIT_S2_M4": {
+        "GXT": "CLO_H4M_O_S2_M4",
+        "Localized": "The Anaconda"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_FRONTIER": {
+        "GXT": "CLO_TRM_O_FRONT",
+        "Localized": "The Frontier"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_BOILER_0": {
+        "GXT": "CLO_TRM_O_BS_0",
+        "Localized": "Penitentiary Coveralls"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_BOILER_1": {
+        "GXT": "CLO_TRM_O_BS_1",
+        "Localized": "LS Customs Coveralls"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_MORPH_0": {
+        "GXT": "CLO_TRM_O_MS_0",
+        "Localized": "eCola Bodysuit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_MORPH_1": {
+        "GXT": "CLO_TRM_O_MS_1",
+        "Localized": "Sprunk Bodysuit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_DOCK_1": {
+        "GXT": "CLO_TRM_O_D1",
+        "Localized": "The Old Hand"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_DOCK_2": {
+        "GXT": "CLO_TRM_O_D2",
+        "Localized": "The Overworked"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_DOCK_3": {
+        "GXT": "CLO_TRM_O_D3",
+        "Localized": "The Longshoreman"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_DOCK_4": {
+        "GXT": "CLO_TRM_O_D4",
+        "Localized": "The Underpaid"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_LMC_1": {
+        "GXT": "CLO_TRM_O_L1",
+        "Localized": "The Ringleader"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_LMC_2": {
+        "GXT": "CLO_TRM_O_L2",
+        "Localized": "The Knuckles"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_LMC_3": {
+        "GXT": "CLO_TRM_O_L3",
+        "Localized": "The Breaker"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_LMC_4": {
+        "GXT": "CLO_TRM_O_L4",
+        "Localized": "The Dealer"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_1": {
+        "GXT": "CLO_TRM_O_R1",
+        "Localized": "Dark Benefactor Racing Suit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_2": {
+        "GXT": "CLO_TRM_O_R2",
+        "Localized": "Gray Benefactor Racing Suit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_3": {
+        "GXT": "CLO_TRM_O_R3",
+        "Localized": "Green Crowex Pro Racing Suit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_4": {
+        "GXT": "CLO_TRM_O_R4",
+        "Localized": "Black Crowex Pro Racing Suit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_5": {
+        "GXT": "CLO_TRM_O_R5",
+        "Localized": "Blue Xero Gas Racing Suit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_6": {
+        "GXT": "CLO_TRM_O_R6",
+        "Localized": "Red Xero Gas Racing Suit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_7": {
+        "GXT": "CLO_TRM_O_R7",
+        "Localized": "Wildstyle Racing Suit"
+    },
+    "DLC_MP_TUNER_M_OUTFIT_RACE_8": {
+        "GXT": "CLO_TRM_O_R8",
+        "Localized": "Tuned For Speed Racing Suit"
+    },
+    "DLC_MP_FIXER_M_OUTFIT_GOLF_1": {
+        "GXT": "CLO_FXM_O_G_1",
+        "Localized": "The Drive"
+    },
+    "DLC_MP_FIXER_M_OUTFIT_GOLF_2": {
+        "GXT": "CLO_FXM_O_G_2",
+        "Localized": "The Putt"
+    },
+    "DLC_MP_FIXER_M_OUTFIT_GOLF_3": {
+        "GXT": "CLO_FXM_O_G_3",
+        "Localized": "The Chip"
+    },
+    "DLC_MP_FIXER_M_OUTFIT_GOLF_4": {
+        "GXT": "CLO_FXM_O_G_4",
+        "Localized": "The Birdie"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_1": {
+        "GXT": "CLO_G9M_O_R1",
+        "Localized": "CMYK Glitch HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_2": {
+        "GXT": "CLO_G9M_O_R2",
+        "Localized": "Sunset Glitch HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_3": {
+        "GXT": "CLO_G9M_O_R3",
+        "Localized": "Vibrant Pixel HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_4": {
+        "GXT": "CLO_G9M_O_R4",
+        "Localized": "Cool Pixel HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_5": {
+        "GXT": "CLO_G9M_O_R5",
+        "Localized": "Bright Noise HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_6": {
+        "GXT": "CLO_G9M_O_R6",
+        "Localized": "Cool Noise HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_7": {
+        "GXT": "CLO_G9M_O_R7",
+        "Localized": "Red Geo HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_8": {
+        "GXT": "CLO_G9M_O_R8",
+        "Localized": "Yellow Geo HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_9": {
+        "GXT": "CLO_G9M_O_R9",
+        "Localized": "Orange Trip HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_10": {
+        "GXT": "CLO_G9M_O_R10",
+        "Localized": "Blue Trip HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_11": {
+        "GXT": "CLO_G9M_O_R11",
+        "Localized": "Bold Shock HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_12": {
+        "GXT": "CLO_G9M_O_R12",
+        "Localized": "Vibrant Shock HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_13": {
+        "GXT": "CLO_G9M_O_R13",
+        "Localized": "Vivid Torn HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_14": {
+        "GXT": "CLO_G9M_O_R14",
+        "Localized": "Neon Torn HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_15": {
+        "GXT": "CLO_G9M_O_R15",
+        "Localized": "Warm Warped HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_M_OUTFIT_RACE_16": {
+        "GXT": "CLO_G9M_O_R16",
+        "Localized": "Wild Warped HSW Racing Suit"
+    },
+    "DLC_MP_SUM2_M_OUTFIT_SASQUATCH": {
+        "GXT": "CLO_SBM_O_SAS",
+        "Localized": "Sasquatch"
+    },
+    "DLC_MP_SUM2_G9EC_M_OUTFIT_MUMMY": {
+        "GXT": "CLO_E1M_O_MUM",
+        "Localized": "NULL"
+    },
+    "DLC_MP_X22_M_OUTFIT_0": {
+        "GXT": "CLO_X6M_O_0",
+        "Localized": "The Nutcracker"
+    },
+    "DLC_MP_X22_M_OUTFIT_1": {
+        "GXT": "CLO_X6M_O_1",
+        "Localized": "The GoPostal"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_0": {
+        "GXT": "CLO_X6M_O_O_0",
+        "Localized": "Black Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_1": {
+        "GXT": "CLO_X6M_O_O_1",
+        "Localized": "Dark Gray Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_2": {
+        "GXT": "CLO_X6M_O_O_2",
+        "Localized": "Gray Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_3": {
+        "GXT": "CLO_X6M_O_O_3",
+        "Localized": "Ice Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_4": {
+        "GXT": "CLO_X6M_O_O_4",
+        "Localized": "Beige Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_5": {
+        "GXT": "CLO_X6M_O_O_5",
+        "Localized": "Chocolate Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_6": {
+        "GXT": "CLO_X6M_O_O_6",
+        "Localized": "Burgundy Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_7": {
+        "GXT": "CLO_X6M_O_O_7",
+        "Localized": "Hot Pink Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_8": {
+        "GXT": "CLO_X6M_O_O_8",
+        "Localized": "Scarlet Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_9": {
+        "GXT": "CLO_X6M_O_O_9",
+        "Localized": "Orange Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_10": {
+        "GXT": "CLO_X6M_O_O_10",
+        "Localized": "Amber Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_11": {
+        "GXT": "CLO_X6M_O_O_11",
+        "Localized": "Lemon Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_12": {
+        "GXT": "CLO_X6M_O_O_12",
+        "Localized": "Royal Blue Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_13": {
+        "GXT": "CLO_X6M_O_O_13",
+        "Localized": "Blue Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_14": {
+        "GXT": "CLO_X6M_O_O_14",
+        "Localized": "Teal Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_15": {
+        "GXT": "CLO_X6M_O_O_15",
+        "Localized": "Cyan Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_16": {
+        "GXT": "CLO_X6M_O_O_16",
+        "Localized": "Light Blue Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_17": {
+        "GXT": "CLO_X6M_O_O_17",
+        "Localized": "Lilac Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_18": {
+        "GXT": "CLO_X6M_O_O_18",
+        "Localized": "Dark Green Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_19": {
+        "GXT": "CLO_X6M_O_O_19",
+        "Localized": "Emerald Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_20": {
+        "GXT": "CLO_X6M_O_O_20",
+        "Localized": "Moss Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_21": {
+        "GXT": "CLO_X6M_O_O_21",
+        "Localized": "Lime Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_22": {
+        "GXT": "CLO_X6M_O_O_22",
+        "Localized": "Peach Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_23": {
+        "GXT": "CLO_X6M_O_O_23",
+        "Localized": "Lavender Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_24": {
+        "GXT": "CLO_X6M_O_O_24",
+        "Localized": "Purple Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_O_25": {
+        "GXT": "CLO_X6M_O_O_25",
+        "Localized": "Magenta Onesie"
+    },
+    "DLC_MP_X22_M_OUTFIT_2": {
+        "GXT": "CLO_X6M_O_2",
+        "Localized": "The Red-nosed"
+    },
+    "DLC_MP_X22_M_OUTFIT_3": {
+        "GXT": "CLO_X6M_O_3",
+        "Localized": "The Snowman"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_0": {
+        "GXT": "CLO_BUS_F_O_0",
+        "Localized": "The Networker"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_1": {
+        "GXT": "CLO_BUS_F_O_1",
+        "Localized": "The Creative"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_2": {
+        "GXT": "CLO_BUS_F_O_2",
+        "Localized": "The Fresco"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_3": {
+        "GXT": "CLO_BUS_F_O_3",
+        "Localized": "The Parisienne"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_4": {
+        "GXT": "CLO_BUS_F_O_4",
+        "Localized": "The Ball-buster"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_5": {
+        "GXT": "CLO_BUS_F_O_4",
+        "Localized": "The Ball-buster"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_6": {
+        "GXT": "CLO_BUS_F_O_6",
+        "Localized": "The Director"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_7": {
+        "GXT": "CLO_BUS_F_O_7",
+        "Localized": "The Fashionista"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_8": {
+        "GXT": "CLO_BUS_F_O_8",
+        "Localized": "The 9-5"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_9": {
+        "GXT": "CLO_BUS_F_O_9",
+        "Localized": "The Liberty"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_10": {
+        "GXT": "CLO_BUS_F_O_10",
+        "Localized": "The Heritage"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_11": {
+        "GXT": "CLO_BUS_F_O_11",
+        "Localized": "The Aviator"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_12": {
+        "GXT": "CLO_BUS_F_O_11",
+        "Localized": "The Aviator"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_13": {
+        "GXT": "CLO_BUS_F_O_13",
+        "Localized": "The Boardroom"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_14": {
+        "GXT": "CLO_BUS_F_O_13",
+        "Localized": "The Boardroom"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_15": {
+        "GXT": "CLO_BUS_F_O_15",
+        "Localized": "The Art Dealer"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_16": {
+        "GXT": "CLO_BUS_F_O_16",
+        "Localized": "The Architect"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_17": {
+        "GXT": "CLO_BUS_F_O_17",
+        "Localized": "The Leopard"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_18": {
+        "GXT": "CLO_BUS_F_O_17",
+        "Localized": "The Leopard"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_19": {
+        "GXT": "CLO_BUS_F_O_19",
+        "Localized": "The Extrovert"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_20": {
+        "GXT": "CLO_BUS_F_O_20",
+        "Localized": "The Vanquish"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_21": {
+        "GXT": "CLO_BUS_F_O_21",
+        "Localized": "The Firm"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_22": {
+        "GXT": "CLO_BUS_F_O_22",
+        "Localized": "The Purrfectionist"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_23": {
+        "GXT": "CLO_BUS_F_O_22",
+        "Localized": "The Purrfectionist"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_24": {
+        "GXT": "CLO_BUS_F_O_22",
+        "Localized": "The Purrfectionist"
+    },
+    "DLC_MP_BUSI_F_OUTFIT_25": {
+        "GXT": "CLO_BUS_F_O_25",
+        "Localized": "The Designer"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_0": {
+        "GXT": "CLO_HP_F_O_0",
+        "Localized": "The Yuppie"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_1": {
+        "GXT": "CLO_HP_F_O_1",
+        "Localized": "The Palms"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_2": {
+        "GXT": "CLO_HP_F_O_2",
+        "Localized": "The Bubblegum"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_3": {
+        "GXT": "CLO_HP_F_O_3",
+        "Localized": "The Safari"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_4": {
+        "GXT": "CLO_HP_F_O_4",
+        "Localized": "The Jungle"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_5": {
+        "GXT": "CLO_HP_F_O_5",
+        "Localized": "The Vintage"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_6": {
+        "GXT": "CLO_HP_F_O_6",
+        "Localized": "The Youth"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_7": {
+        "GXT": "CLO_HP_F_O_7",
+        "Localized": "The Craze"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_8": {
+        "GXT": "CLO_HP_F_O_8",
+        "Localized": "The Tropics"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_9": {
+        "GXT": "CLO_HP_F_O_9",
+        "Localized": "The Roar"
+    },
+    "DLC_MP_HIPS_F_OUTFIT_10": {
+        "GXT": "CLO_HP_F_O_10",
+        "Localized": "The 90s"
+    },
+    "DLC_MP_IND_F_OUTFIT_0": {
+        "GXT": "CLO_INDF_O_0",
+        "Localized": "The Spirit"
+    },
+    "DLC_MP_IND_F_OUTFIT_1": {
+        "GXT": "CLO_INDF_O_1",
+        "Localized": "The Patriot"
+    },
+    "DLC_MP_IND_F_OUTFIT_2": {
+        "GXT": "CLO_INDF_O_2",
+        "Localized": "The Pride"
+    },
+    "DLC_MP_IND_F_OUTFIT_3": {
+        "GXT": "CLO_INDF_O_3",
+        "Localized": "The Declaration"
+    },
+    "DLC_MP_IND_F_OUTFIT_4": {
+        "GXT": "CLO_INDF_O_4",
+        "Localized": "The I Love USA"
+    },
+    "DLC_MP_PILOT_F_OUTFIT_0": {
+        "GXT": "CLO_PIF_O_0",
+        "Localized": "Flight Suit"
+    },
+    "DLC_MP_LTS_F_OUTFIT_0": {
+        "GXT": "CLO_LTSF_O_0",
+        "Localized": "The Heavy Night"
+    },
+    "DLC_MP_LTS_F_OUTFIT_1": {
+        "GXT": "CLO_LTSF_O_1",
+        "Localized": "The Heavy Urban"
+    },
+    "DLC_MP_LTS_F_OUTFIT_2": {
+        "GXT": "CLO_LTSF_O_2",
+        "Localized": "The Heavy Steel"
+    },
+    "DLC_MP_LTS_F_OUTFIT_3": {
+        "GXT": "CLO_LTSF_O_3",
+        "Localized": "The Heavy Tundra"
+    },
+    "DLC_MP_LTS_F_OUTFIT_4": {
+        "GXT": "CLO_LTSF_O_4",
+        "Localized": "The Heavy Forest"
+    },
+    "DLC_MP_LTS_F_OUTFIT_5": {
+        "GXT": "CLO_LTSF_O_5",
+        "Localized": "The Masked Night"
+    },
+    "DLC_MP_LTS_F_OUTFIT_6": {
+        "GXT": "CLO_LTSF_O_6",
+        "Localized": "The Masked Urban"
+    },
+    "DLC_MP_LTS_F_OUTFIT_7": {
+        "GXT": "CLO_LTSF_O_7",
+        "Localized": "The Masked Steel"
+    },
+    "DLC_MP_LTS_F_OUTFIT_8": {
+        "GXT": "CLO_LTSF_O_8",
+        "Localized": "The Masked Tundra"
+    },
+    "DLC_MP_LTS_F_OUTFIT_9": {
+        "GXT": "CLO_LTSF_O_9",
+        "Localized": "The Masked Forest"
+    },
+    "DLC_MP_LTS_F_OUTFIT_10": {
+        "GXT": "CLO_LTSF_O_10",
+        "Localized": "The Night"
+    },
+    "DLC_MP_LTS_F_OUTFIT_11": {
+        "GXT": "CLO_LTSF_O_11",
+        "Localized": "The Urban"
+    },
+    "DLC_MP_LTS_F_OUTFIT_12": {
+        "GXT": "CLO_LTSF_O_12",
+        "Localized": "The Steel"
+    },
+    "DLC_MP_LTS_F_OUTFIT_13": {
+        "GXT": "CLO_LTSF_O_13",
+        "Localized": "The Tundra"
+    },
+    "DLC_MP_LTS_F_OUTFIT_14": {
+        "GXT": "CLO_LTSF_O_14",
+        "Localized": "The Forest"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_0": {
+        "GXT": "CLO_HSTF_O_0",
+        "Localized": "Black Flight Suit"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_10": {
+        "GXT": "CLO_HSTF_O_10",
+        "Localized": "Red Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_11": {
+        "GXT": "CLO_HSTF_O_11",
+        "Localized": "Navy Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_12": {
+        "GXT": "CLO_HSTF_O_12",
+        "Localized": "Green Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_13": {
+        "GXT": "CLO_HSTF_O_13",
+        "Localized": "Gray Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_14": {
+        "GXT": "CLO_HSTF_O_14",
+        "Localized": "Red Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_15": {
+        "GXT": "CLO_HSTF_O_15",
+        "Localized": "Navy Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_16": {
+        "GXT": "CLO_HSTF_O_16",
+        "Localized": "Green Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_17": {
+        "GXT": "CLO_HSTF_O_17",
+        "Localized": "Gray Sleeved Coveralls"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_18": {
+        "GXT": "CLO_HSTF_O_18",
+        "Localized": "The Scientist"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_19": {
+        "GXT": "CLO_HSTF_O_19",
+        "Localized": "The Fumigator"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_20": {
+        "GXT": "CLO_HSTF_O_20",
+        "Localized": "The Hazard"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_21": {
+        "GXT": "CLO_HSTF_O_21",
+        "Localized": "The Quarantine"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_A_0": {
+        "GXT": "CLO_HSTF_O_A_0",
+        "Localized": "The Doe"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_A_1": {
+        "GXT": "CLO_HSTF_O_A_1",
+        "Localized": "The Hoodie"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_A_2": {
+        "GXT": "CLO_HSTF_O_A_2",
+        "Localized": "The Norm"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_A_3": {
+        "GXT": "CLO_HSTF_O_A_3",
+        "Localized": "The Carefree"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_B_0": {
+        "GXT": "CLO_HSTF_O_B_0",
+        "Localized": "The Starter"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_B_1": {
+        "GXT": "CLO_HSTF_O_B_1",
+        "Localized": "The Prospect"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_B_2": {
+        "GXT": "CLO_HSTF_O_B_2",
+        "Localized": "The Backup"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_B_3": {
+        "GXT": "CLO_HSTF_O_B_3",
+        "Localized": "The Jump-in"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_C_0": {
+        "GXT": "CLO_HSTF_O_C_0",
+        "Localized": "The Drive-by"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_C_1": {
+        "GXT": "CLO_HSTF_O_C_1",
+        "Localized": "The Brawler"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_C_2": {
+        "GXT": "CLO_HSTF_O_C_2",
+        "Localized": "The Gunslinger"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_C_3": {
+        "GXT": "CLO_HSTF_O_C_3",
+        "Localized": "The Mercenary"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_D_0": {
+        "GXT": "CLO_HSTF_O_D_0",
+        "Localized": "The Skirmish"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_D_1": {
+        "GXT": "CLO_HSTF_O_D_1",
+        "Localized": "The Battle"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_D_2": {
+        "GXT": "CLO_HSTF_O_D_2",
+        "Localized": "The Conflict"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_D_3": {
+        "GXT": "CLO_HSTF_O_D_3",
+        "Localized": "The Fight"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_E_0": {
+        "GXT": "CLO_HSTF_O_E_0",
+        "Localized": "The Full Body"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_E_1": {
+        "GXT": "CLO_HSTF_O_E_1",
+        "Localized": "The Strength"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_E_2": {
+        "GXT": "CLO_HSTF_O_E_2",
+        "Localized": "The Weapon"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_E_3": {
+        "GXT": "CLO_HSTF_O_E_3",
+        "Localized": "The Command"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_F_0": {
+        "GXT": "CLO_HSTF_O_F_0",
+        "Localized": "The Tail"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_F_1": {
+        "GXT": "CLO_HSTF_O_F_1",
+        "Localized": "The Prowler"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_F_2": {
+        "GXT": "CLO_HSTF_O_F_2",
+        "Localized": "The Lurker"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_F_3": {
+        "GXT": "CLO_HSTF_O_F_3",
+        "Localized": "The Robber"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_G_0": {
+        "GXT": "CLO_HSTF_O_G_0",
+        "Localized": "The Guerilla"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_G_1": {
+        "GXT": "CLO_HSTF_O_G_1",
+        "Localized": "The Raid"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_G_2": {
+        "GXT": "CLO_HSTF_O_G_2",
+        "Localized": "The Operative"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_G_3": {
+        "GXT": "CLO_HSTF_O_G_3",
+        "Localized": "The Pincer"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_H_0": {
+        "GXT": "CLO_HSTF_O_H_0",
+        "Localized": "The Bravado"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_H_1": {
+        "GXT": "CLO_HSTF_O_H_1",
+        "Localized": "The Lampadati"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_H_2": {
+        "GXT": "CLO_HSTF_O_H_2",
+        "Localized": "The Pegassi"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_H_3": {
+        "GXT": "CLO_HSTF_O_H_3",
+        "Localized": "The Imponte"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_I_0": {
+        "GXT": "CLO_HSTF_O_I_0",
+        "Localized": "The Buyer"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_I_1": {
+        "GXT": "CLO_HSTF_O_I_1",
+        "Localized": "The Security"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_I_2": {
+        "GXT": "CLO_HSTF_O_I_2",
+        "Localized": "The Manager"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_I_3": {
+        "GXT": "CLO_HSTF_O_I_3",
+        "Localized": "The Consultant"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_J_0": {
+        "GXT": "CLO_HSTF_O_J_0",
+        "Localized": "The Richman"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_J_1": {
+        "GXT": "CLO_HSTF_O_J_1",
+        "Localized": "The Portola"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_J_2": {
+        "GXT": "CLO_HSTF_O_J_2",
+        "Localized": "The Vespucci"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_J_3": {
+        "GXT": "CLO_HSTF_O_J_3",
+        "Localized": "The Rockford"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_K_0": {
+        "GXT": "CLO_HSTF_O_K_0",
+        "Localized": "The Bluffs"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_K_1": {
+        "GXT": "CLO_HSTF_O_K_1",
+        "Localized": "The Burro"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_K_2": {
+        "GXT": "CLO_HSTF_O_K_2",
+        "Localized": "The Alta"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_K_3": {
+        "GXT": "CLO_HSTF_O_K_3",
+        "Localized": "The Yankton"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_L_0": {
+        "GXT": "CLO_HSTF_O_L_0",
+        "Localized": "The Slick"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_L_1": {
+        "GXT": "CLO_HSTF_O_L_1",
+        "Localized": "The Fella"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_L_2": {
+        "GXT": "CLO_HSTF_O_L_2",
+        "Localized": "The Rogue"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_L_3": {
+        "GXT": "CLO_HSTF_O_L_3",
+        "Localized": "The Classic"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_M_0": {
+        "GXT": "CLO_HSTF_O_M_0",
+        "Localized": "The Gala"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_M_1": {
+        "GXT": "CLO_HSTF_O_M_1",
+        "Localized": "The Benefit"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_M_2": {
+        "GXT": "CLO_HSTF_O_M_2",
+        "Localized": "The Dinner"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_M_3": {
+        "GXT": "CLO_HSTF_O_M_3",
+        "Localized": "The Ball"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_N_0": {
+        "GXT": "CLO_HSTF_O_N_0",
+        "Localized": "The Burnout"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_N_1": {
+        "GXT": "CLO_HSTF_O_N_1",
+        "Localized": "The Throttle"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_N_2": {
+        "GXT": "CLO_HSTF_O_N_2",
+        "Localized": "The Metal"
+    },
+    "DLC_MP_HEIST_F_OUTFIT_N_3": {
+        "GXT": "CLO_HSTF_O_N_3",
+        "Localized": "The Club"
+    },
+    "DLC_MP_XMAS2_F_OUTFIT_0": {
+        "GXT": "CLO_X2F_O_0",
+        "Localized": "Red Pajamas"
+    },
+    "DLC_MP_XMAS2_F_OUTFIT_1": {
+        "GXT": "CLO_X2F_O_1",
+        "Localized": "Stripy Pajamas"
+    },
+    "DLC_MP_XMAS2_F_OUTFIT_2": {
+        "GXT": "CLO_X2F_O_2",
+        "Localized": "Winter Pajamas"
+    },
+    "DLC_MP_XMAS2_F_OUTFIT_3": {
+        "GXT": "CLO_X2F_O_3",
+        "Localized": "Festive Pajamas"
+    },
+    "DLC_MP_XMAS2_F_OUTFIT_4": {
+        "GXT": "CLO_X2F_O_4",
+        "Localized": "The Claus"
+    },
+    "DLC_MP_XMAS2_F_OUTFIT_5": {
+        "GXT": "CLO_X2F_O_5",
+        "Localized": "The Elf"
+    },
+    "DLC_MP_XMAS2_F_OUTFIT_6": {
+        "GXT": "CLO_X2F_O_6",
+        "Localized": "The Pudding"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_0": {
+        "GXT": "CLO_LXF_O_0",
+        "Localized": "The Socialite"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_1": {
+        "GXT": "CLO_LXF_O_1",
+        "Localized": "The Accessory"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_2": {
+        "GXT": "CLO_LXF_O_2",
+        "Localized": "The Wealth"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_3": {
+        "GXT": "CLO_LXF_O_3",
+        "Localized": "The Status"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_4": {
+        "GXT": "CLO_LXF_O_4",
+        "Localized": "The Perseus"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_5": {
+        "GXT": "CLO_LXF_O_5",
+        "Localized": "The Elite"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_6": {
+        "GXT": "CLO_LXF_O_6",
+        "Localized": "The Chic"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_7": {
+        "GXT": "CLO_LXF_O_7",
+        "Localized": "The Golden Girl"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_8": {
+        "GXT": "CLO_LXF_O_8",
+        "Localized": "The Lavish"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_9": {
+        "GXT": "CLO_LXF_O_9",
+        "Localized": "The Class"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_10": {
+        "GXT": "CLO_LXF_O_10",
+        "Localized": "The Shine"
+    },
+    "DLC_MP_LUXE_F_OUTFIT_11": {
+        "GXT": "CLO_LXF_O_11",
+        "Localized": "The Puma"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_0": {
+        "GXT": "CLO_L2F_O_0",
+        "Localized": "The Vamp"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_1": {
+        "GXT": "CLO_L2F_O_1",
+        "Localized": "The Treasure"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_2": {
+        "GXT": "CLO_L2F_O_2",
+        "Localized": "The Manor"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_3": {
+        "GXT": "CLO_L2F_O_3",
+        "Localized": "The Rose"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_4": {
+        "GXT": "CLO_L2F_O_4",
+        "Localized": "The Sessanta Nove"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_5": {
+        "GXT": "CLO_L2F_O_5",
+        "Localized": "The Swank"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_6": {
+        "GXT": "CLO_L2F_O_6",
+        "Localized": "The Cruise"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_7": {
+        "GXT": "CLO_L2F_O_7",
+        "Localized": "The Grace"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_8": {
+        "GXT": "CLO_L2F_O_8",
+        "Localized": "The Heir"
+    },
+    "DLC_MP_LUXE2_F_OUTFIT_9": {
+        "GXT": "CLO_L2F_O_9",
+        "Localized": "The Account"
+    },
+    "DLC_MP_LOW_F_OUTFIT_0": {
+        "GXT": "CLO_S1F_O_0",
+        "Localized": "The Ride"
+    },
+    "DLC_MP_LOW_F_OUTFIT_1": {
+        "GXT": "CLO_S1F_O_1",
+        "Localized": "The Cage"
+    },
+    "DLC_MP_LOW_F_OUTFIT_2": {
+        "GXT": "CLO_S1F_O_2",
+        "Localized": "The Fan"
+    },
+    "DLC_MP_LOW_F_OUTFIT_3": {
+        "GXT": "CLO_S1F_O_3",
+        "Localized": "The Step"
+    },
+    "DLC_MP_LOW_F_OUTFIT_4": {
+        "GXT": "CLO_S1F_O_4",
+        "Localized": "The Lead"
+    },
+    "DLC_MP_LOW_F_OUTFIT_5": {
+        "GXT": "CLO_S1F_O_5",
+        "Localized": "The Dial"
+    },
+    "DLC_MP_LOW_F_OUTFIT_6": {
+        "GXT": "CLO_S1F_O_6",
+        "Localized": "The Smoke"
+    },
+    "DLC_MP_LOW_F_OUTFIT_7": {
+        "GXT": "CLO_S1F_O_7",
+        "Localized": "The Blue"
+    },
+    "DLC_MP_XMAS3_F_OUTFIT_0": {
+        "GXT": "CLO_X3F_U_0_0",
+        "Localized": "Bad Santa Costume"
+    },
+    "DLC_MP_XMAS3_F_OUTFIT_1": {
+        "GXT": "CLO_X3F_U_0_1",
+        "Localized": "Dirty Santa Costume"
+    },
+    "DLC_MP_XMAS3_F_OUTFIT_2": {
+        "GXT": "CLO_X3F_U_0_2",
+        "Localized": "Filthy Santa Costume"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_0": {
+        "GXT": "CLO_V2F_O_0",
+        "Localized": "The Charm"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_1": {
+        "GXT": "CLO_V2F_O_1",
+        "Localized": "The Paramour"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_2": {
+        "GXT": "CLO_V2F_O_2",
+        "Localized": "The Love"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_3": {
+        "GXT": "CLO_V2F_O_3",
+        "Localized": "The Blues"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_4": {
+        "GXT": "CLO_V2F_O_4",
+        "Localized": "The Angelic"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_5": {
+        "GXT": "CLO_V2F_O_5",
+        "Localized": "The Admirer"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_6": {
+        "GXT": "CLO_V2F_O_6",
+        "Localized": "The Eros"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_7": {
+        "GXT": "CLO_V2F_O_7",
+        "Localized": "The Siren"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_8": {
+        "GXT": "CLO_V2F_O_8",
+        "Localized": "The Glamour"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_9": {
+        "GXT": "CLO_V2F_O_9",
+        "Localized": "The Concubine"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_10": {
+        "GXT": "CLO_V2F_O_10",
+        "Localized": "The Azure"
+    },
+    "DLC_MP_VAL2_F_OUTFIT_11": {
+        "GXT": "CLO_V2F_O_11",
+        "Localized": "The Femme"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_0": {
+        "GXT": "CLO_S2F_O_0",
+        "Localized": "The Chola"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_1": {
+        "GXT": "CLO_S2F_O_1",
+        "Localized": "The Shift"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_2": {
+        "GXT": "CLO_S2F_O_2",
+        "Localized": "The Island"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_3": {
+        "GXT": "CLO_S2F_O_3",
+        "Localized": "The Heights"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_4": {
+        "GXT": "CLO_S2F_O_4",
+        "Localized": "The Stretch"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_5": {
+        "GXT": "CLO_S2F_O_5",
+        "Localized": "The Tuck"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_6": {
+        "GXT": "CLO_S2F_O_6",
+        "Localized": "The Button Up"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_7": {
+        "GXT": "CLO_S2F_O_7",
+        "Localized": "The Slate"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_8": {
+        "GXT": "CLO_S2F_O_8",
+        "Localized": "The Body"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_9": {
+        "GXT": "CLO_S2F_O_9",
+        "Localized": "The Bold"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_10": {
+        "GXT": "CLO_S2F_O_10",
+        "Localized": "The Benny's"
+    },
+    "DLC_MP_LOW2_F_OUTFIT_11": {
+        "GXT": "CLO_S2F_O_11",
+        "Localized": "The Frill"
+    },
+    "DLC_MP_JAN_F_OUTFIT_0": {
+        "GXT": "CLO_EXF_OA_0",
+        "Localized": "SecuroServ 1"
+    },
+    "DLC_MP_JAN_F_OUTFIT_1": {
+        "GXT": "CLO_EXF_OA_1",
+        "Localized": "SecuroServ 2"
+    },
+    "DLC_MP_JAN_F_OUTFIT_2": {
+        "GXT": "CLO_EXF_OA_2",
+        "Localized": "SecuroServ 3"
+    },
+    "DLC_MP_JAN_F_OUTFIT_3": {
+        "GXT": "CLO_EXF_OA_3",
+        "Localized": "SecuroServ 4"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_0": {
+        "GXT": "CLO_EXF_OB_0",
+        "Localized": "The Decorated"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_1": {
+        "GXT": "CLO_EXF_OB_1",
+        "Localized": "The Alpha"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_2": {
+        "GXT": "CLO_EXF_OB_2",
+        "Localized": "The Swing"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_3": {
+        "GXT": "CLO_EXF_OB_3",
+        "Localized": "The Prime"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_4": {
+        "GXT": "CLO_EXF_OB_4",
+        "Localized": "The Hide"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_5": {
+        "GXT": "CLO_EXF_OB_5",
+        "Localized": "The Putz"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_6": {
+        "GXT": "CLO_EXF_OB_6",
+        "Localized": "The Dragon"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_7": {
+        "GXT": "CLO_EXF_OB_7",
+        "Localized": "The Militia"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_8": {
+        "GXT": "CLO_EXF_OB_8",
+        "Localized": "The Mellow"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_9": {
+        "GXT": "CLO_EXF_OB_9",
+        "Localized": "The Western"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_10": {
+        "GXT": "CLO_EXF_OB_10",
+        "Localized": "The Elegance"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_11": {
+        "GXT": "CLO_EXF_OB_11",
+        "Localized": "The Hearth"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_12": {
+        "GXT": "CLO_EXF_OB_12",
+        "Localized": "The Valor"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_13": {
+        "GXT": "CLO_EXF_OB_13",
+        "Localized": "The Liberty"
+    },
+    "DLC_MP_EXEC_F_OUTFIT_14": {
+        "GXT": "CLO_EXF_OB_14",
+        "Localized": "The Buzz"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_0": {
+        "GXT": "CLO_STF_O_0",
+        "Localized": "Navy Racing Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_1": {
+        "GXT": "CLO_STF_O_1",
+        "Localized": "Gray Racing Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_2": {
+        "GXT": "CLO_STF_O_2",
+        "Localized": "Red Racing Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_3": {
+        "GXT": "CLO_STF_O_3",
+        "Localized": "Black Racing Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_4": {
+        "GXT": "CLO_STF_O_4",
+        "Localized": "Green Racing Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_5": {
+        "GXT": "CLO_STF_O_5",
+        "Localized": "White Racing Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_6": {
+        "GXT": "CLO_STF_O_6",
+        "Localized": "Green Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_7": {
+        "GXT": "CLO_STF_O_7",
+        "Localized": "Red Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_8": {
+        "GXT": "CLO_STF_O_8",
+        "Localized": "Italian Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_9": {
+        "GXT": "CLO_STF_O_9",
+        "Localized": "Black Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_10": {
+        "GXT": "CLO_STF_O_10",
+        "Localized": "French Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_11": {
+        "GXT": "CLO_STF_O_11",
+        "Localized": "Yellow Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_12": {
+        "GXT": "CLO_STF_O_12",
+        "Localized": "Pink Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_13": {
+        "GXT": "CLO_STF_O_13",
+        "Localized": "Blue Biker Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_14": {
+        "GXT": "CLO_STF_O_14",
+        "Localized": "White Stuntman Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_15": {
+        "GXT": "CLO_STF_O_15",
+        "Localized": "Blue Stuntman Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_16": {
+        "GXT": "CLO_STF_O_16",
+        "Localized": "Red Stuntman Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_17": {
+        "GXT": "CLO_STF_O_17",
+        "Localized": "Black Stuntman Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_18": {
+        "GXT": "CLO_STF_O_18",
+        "Localized": "Pink Stuntman Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_19": {
+        "GXT": "CLO_STF_O_19",
+        "Localized": "Gold Stuntman Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_20": {
+        "GXT": "CLO_STF_O_20",
+        "Localized": "Silver Stuntman Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_E_0": {
+        "GXT": "CLO_STF_O_E_0",
+        "Localized": "White Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_E_1": {
+        "GXT": "CLO_STF_O_E_1",
+        "Localized": "Blue Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_E_2": {
+        "GXT": "CLO_STF_O_E_2",
+        "Localized": "Red Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_E_3": {
+        "GXT": "CLO_STF_O_E_3",
+        "Localized": "Black Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_E_4": {
+        "GXT": "CLO_STF_O_E_4",
+        "Localized": "Pink Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_E_5": {
+        "GXT": "CLO_STF_O_E_5",
+        "Localized": "Gold Jock Cranley Suit"
+    },
+    "DLC_MP_STUNT_F_OUTFIT_E_6": {
+        "GXT": "CLO_STF_O_E_6",
+        "Localized": "Silver Jock Cranley Suit"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_0": {
+        "GXT": "CLO_BIF_O_0",
+        "Localized": "Deadline Yellow"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_1": {
+        "GXT": "CLO_BIF_O_1",
+        "Localized": "Deadline Green"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_2": {
+        "GXT": "CLO_BIF_O_2",
+        "Localized": "Deadline Orange"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_3": {
+        "GXT": "CLO_BIF_O_3",
+        "Localized": "Deadline Purple"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_4": {
+        "GXT": "CLO_BIF_O_4",
+        "Localized": "Deadline Pink"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_5": {
+        "GXT": "CLO_BIF_O_5",
+        "Localized": "Deadline Red"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_6": {
+        "GXT": "CLO_BIF_O_6",
+        "Localized": "Deadline Blue"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_7": {
+        "GXT": "CLO_BIF_O_7",
+        "Localized": "Deadline White"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_8": {
+        "GXT": "CLO_BIF_O_8",
+        "Localized": "The Avarus"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_9": {
+        "GXT": "CLO_BIF_O_9",
+        "Localized": "The Wolfsbane"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_10": {
+        "GXT": "CLO_BIF_O_10",
+        "Localized": "The Rat Bike"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_11": {
+        "GXT": "CLO_BIF_O_11",
+        "Localized": "The Chimera"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_12": {
+        "GXT": "CLO_BIF_O_12",
+        "Localized": "The Nightblade"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_13": {
+        "GXT": "CLO_BIF_O_13",
+        "Localized": "The Hakuchou"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_14": {
+        "GXT": "CLO_BIF_O_14",
+        "Localized": "The Blazer"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_15": {
+        "GXT": "CLO_BIF_O_15",
+        "Localized": "The Manchez"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_16": {
+        "GXT": "CLO_BIF_O_16",
+        "Localized": "The Faggio"
+    },
+    "DLC_MP_BIKER_F_OUTFIT_17": {
+        "GXT": "CLO_BIF_O_17",
+        "Localized": "The Zombie"
+    },
+    "DLC_MP_IE_F_OUTFIT_0": {
+        "GXT": "CLO_IEF_O_0",
+        "Localized": "Luminous Bodysuit"
+    },
+    "DLC_MP_IE_F_OUTFIT_1": {
+        "GXT": "CLO_IEF_O_1",
+        "Localized": "Electric Bodysuit"
+    },
+    "DLC_MP_IE_F_OUTFIT_2": {
+        "GXT": "CLO_IEF_O_2",
+        "Localized": "Neon Bodysuit"
+    },
+    "DLC_MP_IE_F_OUTFIT_3": {
+        "GXT": "CLO_IEF_O_3",
+        "Localized": "The Plain Sight"
+    },
+    "DLC_MP_IE_F_OUTFIT_4": {
+        "GXT": "CLO_IEF_O_4",
+        "Localized": "The Smolder"
+    },
+    "DLC_MP_IE_F_OUTFIT_5": {
+        "GXT": "CLO_IEF_O_5",
+        "Localized": "The Dealership"
+    },
+    "DLC_MP_IE_F_OUTFIT_6": {
+        "GXT": "CLO_IEF_O_6",
+        "Localized": "The Bigness"
+    },
+    "DLC_MP_IE_F_OUTFIT_7": {
+        "GXT": "CLO_IEF_O_7",
+        "Localized": "The New Skool"
+    },
+    "DLC_MP_IE_F_OUTFIT_8": {
+        "GXT": "CLO_IEF_O_8",
+        "Localized": "The Hip-Hop"
+    },
+    "DLC_MP_IE_F_OUTFIT_9": {
+        "GXT": "CLO_IEF_O_9",
+        "Localized": "The Gunshow"
+    },
+    "DLC_MP_IE_F_OUTFIT_10": {
+        "GXT": "CLO_IEF_O_10",
+        "Localized": "The Patchwork"
+    },
+    "DLC_MP_IE_F_OUTFIT_11": {
+        "GXT": "CLO_IEF_O_11",
+        "Localized": "The Puff"
+    },
+    "DLC_MP_IE_F_OUTFIT_12": {
+        "GXT": "CLO_IEF_O_12",
+        "Localized": "The Anorak"
+    },
+    "DLC_MP_GR_F_OUTFIT_1": {
+        "GXT": "CLO_GRF_O_1",
+        "Localized": "The Gunfighter"
+    },
+    "DLC_MP_GR_F_OUTFIT_2": {
+        "GXT": "CLO_GRF_O_2",
+        "Localized": "The Armorer"
+    },
+    "DLC_MP_GR_F_OUTFIT_3": {
+        "GXT": "CLO_GRF_O_3",
+        "Localized": "The Big Gun"
+    },
+    "DLC_MP_GR_F_OUTFIT_4": {
+        "GXT": "CLO_GRF_O_4",
+        "Localized": "The Insurgent"
+    },
+    "DLC_MP_GR_F_OUTFIT_5": {
+        "GXT": "CLO_GRF_O_5",
+        "Localized": "The Top Brass"
+    },
+    "DLC_MP_GR_F_OUTFIT_6": {
+        "GXT": "CLO_GRF_O_6",
+        "Localized": "The Sharpshooter"
+    },
+    "DLC_MP_GR_F_OUTFIT_7": {
+        "GXT": "CLO_GRF_O_7",
+        "Localized": "The Pistolsmith"
+    },
+    "DLC_MP_GR_F_OUTFIT_8": {
+        "GXT": "CLO_GRF_O_8",
+        "Localized": "The Hunt"
+    },
+    "DLC_MP_GR_F_OUTFIT_9": {
+        "GXT": "CLO_GRF_O_9",
+        "Localized": "The Firearm"
+    },
+    "DLC_MP_GR_F_OUTFIT_10": {
+        "GXT": "CLO_GRF_O_10",
+        "Localized": "The Stealth"
+    },
+    "DLC_MP_AR_F_OUTFIT_0": {
+        "GXT": "CLO_ARF_O_0",
+        "Localized": "Crowex Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_1": {
+        "GXT": "CLO_ARF_O_1",
+        "Localized": "Flow Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_2": {
+        "GXT": "CLO_ARF_O_2",
+        "Localized": "GoPostal Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_3": {
+        "GXT": "CLO_ARF_O_3",
+        "Localized": "Junk Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_4": {
+        "GXT": "CLO_ARF_O_4",
+        "Localized": "Kronos Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_5": {
+        "GXT": "CLO_ARF_O_5",
+        "Localized": "MeTV Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_6": {
+        "GXT": "CLO_ARF_O_6",
+        "Localized": "Pendulus Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_7": {
+        "GXT": "CLO_ARF_O_7",
+        "Localized": "Redwood Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_8": {
+        "GXT": "CLO_ARF_O_8",
+        "Localized": "eCola Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_9": {
+        "GXT": "CLO_ARF_O_9",
+        "Localized": "CNT Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_10": {
+        "GXT": "CLO_ARF_O_10",
+        "Localized": "Jackal Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_11": {
+        "GXT": "CLO_ARF_O_11",
+        "Localized": "Shark Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_12": {
+        "GXT": "CLO_ARF_O_12",
+        "Localized": "Sprunk Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_13": {
+        "GXT": "CLO_ARF_O_13",
+        "Localized": "Tinkle Racing Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_14": {
+        "GXT": "CLO_ARF_O_14",
+        "Localized": "Black & Yellow Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_15": {
+        "GXT": "CLO_ARF_O_15",
+        "Localized": "White Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_16": {
+        "GXT": "CLO_ARF_O_16",
+        "Localized": "Gray & Navy Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_17": {
+        "GXT": "CLO_ARF_O_17",
+        "Localized": "Dark Blue Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_18": {
+        "GXT": "CLO_ARF_O_18",
+        "Localized": "Brown Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_19": {
+        "GXT": "CLO_ARF_O_19",
+        "Localized": "Wine Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_20": {
+        "GXT": "CLO_ARF_O_20",
+        "Localized": "Orange Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_21": {
+        "GXT": "CLO_ARF_O_21",
+        "Localized": "Yellow Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_22": {
+        "GXT": "CLO_ARF_O_22",
+        "Localized": "Blue Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_23": {
+        "GXT": "CLO_ARF_O_23",
+        "Localized": "Light Blue Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_24": {
+        "GXT": "CLO_ARF_O_24",
+        "Localized": "Brown & Red Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_25": {
+        "GXT": "CLO_ARF_O_25",
+        "Localized": "Gray Woodland Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_26": {
+        "GXT": "CLO_ARF_O_26",
+        "Localized": "Contrast Camo Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_27": {
+        "GXT": "CLO_ARF_O_27",
+        "Localized": "Light Woodland Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_28": {
+        "GXT": "CLO_ARF_O_28",
+        "Localized": "Brown Digital Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_29": {
+        "GXT": "CLO_ARF_O_29",
+        "Localized": "Gray & Black Flight Suit"
+    },
+    "DLC_MP_AR_F_OUTFIT_30": {
+        "GXT": "CLO_ARF_O_30",
+        "Localized": "Pogo Flight Suit"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_0": {
+        "GXT": "CLO_SMF_O_0",
+        "Localized": "The Tank"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_1": {
+        "GXT": "CLO_SMF_O_1",
+        "Localized": "The Reconnaissance"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_2": {
+        "GXT": "CLO_SMF_O_2",
+        "Localized": "The Bodyguard"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_3": {
+        "GXT": "CLO_SMF_O_3",
+        "Localized": "The Militarist"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_4": {
+        "GXT": "CLO_SMF_O_4",
+        "Localized": "The Ace"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_5": {
+        "GXT": "CLO_SMF_O_5",
+        "Localized": "The Under Wraps"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_6": {
+        "GXT": "CLO_SMF_O_6",
+        "Localized": "The Hoodlum"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_7": {
+        "GXT": "CLO_SMF_O_7",
+        "Localized": "The Mack"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_8": {
+        "GXT": "CLO_SMF_O_8",
+        "Localized": "The Red Mist"
+    },
+    "DLC_MP_SMUG_F_OUTFIT_9": {
+        "GXT": "CLO_SMF_O_9",
+        "Localized": "The Casual"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_0": {
+        "GXT": "CLO_H2F_O_S_0",
+        "Localized": "Black Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_1": {
+        "GXT": "CLO_H2F_O_S_1",
+        "Localized": "White Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_2": {
+        "GXT": "CLO_H2F_O_S_2",
+        "Localized": "Blue Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_3": {
+        "GXT": "CLO_H2F_O_S_3",
+        "Localized": "Red Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_4": {
+        "GXT": "CLO_H2F_O_S_4",
+        "Localized": "Cyan Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_5": {
+        "GXT": "CLO_H2F_O_S_5",
+        "Localized": "Lime Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_6": {
+        "GXT": "CLO_H2F_O_S_6",
+        "Localized": "Orange Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_7": {
+        "GXT": "CLO_H2F_O_S_7",
+        "Localized": "Yellow Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_8": {
+        "GXT": "CLO_H2F_O_S_8",
+        "Localized": "Gray & Orange Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_9": {
+        "GXT": "CLO_H2F_O_S_9",
+        "Localized": "Pink Backside Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_10": {
+        "GXT": "CLO_H2F_O_S_10",
+        "Localized": "Teal Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_11": {
+        "GXT": "CLO_H2F_O_S_11",
+        "Localized": "Green Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_12": {
+        "GXT": "CLO_H2F_O_S_12",
+        "Localized": "Bold Orange Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_13": {
+        "GXT": "CLO_H2F_O_S_13",
+        "Localized": "Gray Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_14": {
+        "GXT": "CLO_H2F_O_S_14",
+        "Localized": "White & Orange Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_15": {
+        "GXT": "CLO_H2F_O_S_15",
+        "Localized": "Sky Blue Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_16": {
+        "GXT": "CLO_H2F_O_S_16",
+        "Localized": "Tiger Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_17": {
+        "GXT": "CLO_H2F_O_S_17",
+        "Localized": "Gray Camo Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_18": {
+        "GXT": "CLO_H2F_O_S_18",
+        "Localized": "Splinter Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_19": {
+        "GXT": "CLO_H2F_O_S_19",
+        "Localized": "Bold Red Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_20": {
+        "GXT": "CLO_H2F_O_S_20",
+        "Localized": "Turquoise Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_SCUBA_21": {
+        "GXT": "CLO_H2F_O_S_21",
+        "Localized": "Bold Abstract Scuba"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_0": {
+        "GXT": "CLO_X17F_O_M_0",
+        "Localized": "Green Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_1": {
+        "GXT": "CLO_X17F_O_M_1",
+        "Localized": "Orange Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_2": {
+        "GXT": "CLO_X17F_O_M_2",
+        "Localized": "Blue Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_3": {
+        "GXT": "CLO_X17F_O_M_3",
+        "Localized": "Pink Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_4": {
+        "GXT": "CLO_X17F_O_M_4",
+        "Localized": "Yellow Wireframe Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_5": {
+        "GXT": "CLO_X17F_O_M_5",
+        "Localized": "Dark Reindeer Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_6": {
+        "GXT": "CLO_X17F_O_M_6",
+        "Localized": "Light Reindeer Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_7": {
+        "GXT": "CLO_X17F_O_M_7",
+        "Localized": "Light Gingerbread Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_8": {
+        "GXT": "CLO_X17F_O_M_8",
+        "Localized": "Dark Gingerbread Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_9": {
+        "GXT": "CLO_X17F_O_M_9",
+        "Localized": "Santa Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_10": {
+        "GXT": "CLO_X17F_O_M_10",
+        "Localized": "Green Elf Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_MORPH_11": {
+        "GXT": "CLO_X17F_O_M_11",
+        "Localized": "Red Elf Bodysuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_0": {
+        "GXT": "CLO_H2F_O_C_0",
+        "Localized": "Black Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_1": {
+        "GXT": "CLO_H2F_O_C_1",
+        "Localized": "Gray Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_2": {
+        "GXT": "CLO_H2F_O_C_2",
+        "Localized": "Brown Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_3": {
+        "GXT": "CLO_H2F_O_C_3",
+        "Localized": "Tan Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_4": {
+        "GXT": "CLO_H2F_O_C_4",
+        "Localized": "Ox Blood Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_5": {
+        "GXT": "CLO_H2F_O_C_5",
+        "Localized": "Yellow Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_6": {
+        "GXT": "CLO_H2F_O_C_6",
+        "Localized": "Worn Brown Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_7": {
+        "GXT": "CLO_H2F_O_C_7",
+        "Localized": "Worn Gray Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_8": {
+        "GXT": "CLO_H2F_O_C_8",
+        "Localized": "Gray Camo Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_9": {
+        "GXT": "CLO_H2F_O_C_9",
+        "Localized": "Light Woodland Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_10": {
+        "GXT": "CLO_H2F_O_C_10",
+        "Localized": "Splinter Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_11": {
+        "GXT": "CLO_H2F_O_C_11",
+        "Localized": "Cobble Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_12": {
+        "GXT": "CLO_H2F_O_C_12",
+        "Localized": "Crosshatch Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_13": {
+        "GXT": "CLO_H2F_O_C_13",
+        "Localized": "Black & Red Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_14": {
+        "GXT": "CLO_H2F_O_C_14",
+        "Localized": "Patterned Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_15": {
+        "GXT": "CLO_H2F_O_C_15",
+        "Localized": "Bold Abstract Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_CATSUIT_16": {
+        "GXT": "CLO_H2F_O_C_16",
+        "Localized": "Tiger Catsuit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_0": {
+        "GXT": "CLO_H2F_O_G_0",
+        "Localized": "Tan Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_1": {
+        "GXT": "CLO_H2F_O_G_1",
+        "Localized": "Charcoal Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_2": {
+        "GXT": "CLO_H2F_O_G_2",
+        "Localized": "Ash Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_3": {
+        "GXT": "CLO_H2F_O_G_3",
+        "Localized": "Gray Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_4": {
+        "GXT": "CLO_H2F_O_G_4",
+        "Localized": "Mocha Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_5": {
+        "GXT": "CLO_H2F_O_G_5",
+        "Localized": "Brown Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_6": {
+        "GXT": "CLO_H2F_O_G_6",
+        "Localized": "Rust Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_7": {
+        "GXT": "CLO_H2F_O_G_7",
+        "Localized": "Brushstroke Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_8": {
+        "GXT": "CLO_H2F_O_G_8",
+        "Localized": "Blue Camo Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_9": {
+        "GXT": "CLO_H2F_O_G_9",
+        "Localized": "Cyan Camo Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_10": {
+        "GXT": "CLO_H2F_O_G_10",
+        "Localized": "Pink Camo Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_11": {
+        "GXT": "CLO_H2F_O_G_11",
+        "Localized": "White Camo Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_12": {
+        "GXT": "CLO_H2F_O_G_12",
+        "Localized": "Blue & Brown Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_13": {
+        "GXT": "CLO_H2F_O_G_13",
+        "Localized": "Dark Blue & Brown Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_14": {
+        "GXT": "CLO_H2F_O_G_14",
+        "Localized": "Gray & Orange Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_15": {
+        "GXT": "CLO_H2F_O_G_15",
+        "Localized": "Light Blue Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_16": {
+        "GXT": "CLO_H2F_O_G_16",
+        "Localized": "Orange Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_17": {
+        "GXT": "CLO_H2F_O_G_17",
+        "Localized": "Red Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_18": {
+        "GXT": "CLO_H2F_O_G_18",
+        "Localized": "Moss Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_19": {
+        "GXT": "CLO_H2F_O_G_19",
+        "Localized": "Dark Blue Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_20": {
+        "GXT": "CLO_H2F_O_G_20",
+        "Localized": "Fall Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_21": {
+        "GXT": "CLO_H2F_O_G_21",
+        "Localized": "Splinter Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_22": {
+        "GXT": "CLO_H2F_O_G_22",
+        "Localized": "White & Red Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_23": {
+        "GXT": "CLO_H2F_O_G_23",
+        "Localized": "Black & Red Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_24": {
+        "GXT": "CLO_H2F_O_G_24",
+        "Localized": "Black & Blue Gorka Suit"
+    },
+    "DLC_MP_X17_F_OUTFIT_GORKA_25": {
+        "GXT": "CLO_H2F_O_G_25",
+        "Localized": "Chocolate Gorka Suit"
+    },
+    "DLC_MP_ASS_F_OUTFIT_0": {
+        "GXT": "CLO_ASSF_O_0",
+        "Localized": "Blue Classic Racing Suit"
+    },
+    "DLC_MP_ASS_F_OUTFIT_1": {
+        "GXT": "CLO_ASSF_O_1",
+        "Localized": "Red Classic Racing Suit"
+    },
+    "DLC_MP_ASS_F_OUTFIT_2": {
+        "GXT": "CLO_ASSF_O_2",
+        "Localized": "White Classic Racing Suit"
+    },
+    "DLC_MP_ASS_F_OUTFIT_3": {
+        "GXT": "CLO_ASSF_O_3",
+        "Localized": "Green Classic Racing Suit"
+    },
+    "DLC_MP_ASS_F_OUTFIT_4": {
+        "GXT": "CLO_ASSF_O_4",
+        "Localized": "Orange Classic Racing Suit"
+    },
+    "DLC_MP_ASS_F_OUTFIT_5": {
+        "GXT": "CLO_ASSF_O_5",
+        "Localized": "Purple Classic Racing Suit"
+    },
+    "DLC_MP_ASS_F_OUTFIT_6": {
+        "GXT": "CLO_ASSF_O_6",
+        "Localized": "Pink Classic Racing Suit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_A_0": {
+        "GXT": "CLO_X5F_O_A_0",
+        "Localized": "Yellow Reindeer Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_A_1": {
+        "GXT": "CLO_X5F_O_A_1_b",
+        "Localized": "Traditional Festive Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_A_2": {
+        "GXT": "CLO_X5F_O_A_2",
+        "Localized": "Green Reindeer Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_A_3": {
+        "GXT": "CLO_X5F_O_A_3_b",
+        "Localized": "Neon Festive Lights Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_0": {
+        "GXT": "CLO_AWF_O_B_0",
+        "Localized": "Yellow Robot Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_1": {
+        "GXT": "CLO_AWF_O_B_1",
+        "Localized": "Blue Robot Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_2": {
+        "GXT": "CLO_AWF_O_B_2",
+        "Localized": "Blue Hero Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_3": {
+        "GXT": "CLO_AWF_O_B_3",
+        "Localized": "Red Hero Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_4": {
+        "GXT": "CLO_AWF_O_B_4",
+        "Localized": "Green Shapes Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_5": {
+        "GXT": "CLO_AWF_O_B_5",
+        "Localized": "Purple Shapes Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_6": {
+        "GXT": "CLO_AWF_O_B_6",
+        "Localized": "Blue & Pink Contours Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_7": {
+        "GXT": "CLO_AWF_O_B_7",
+        "Localized": "Red & Green Contours Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_8": {
+        "GXT": "CLO_AWF_O_B_8",
+        "Localized": "Green Martian Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_9": {
+        "GXT": "CLO_AWF_O_B_9",
+        "Localized": "Purple Martian Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_10": {
+        "GXT": "CLO_AWF_O_B_10",
+        "Localized": "Blue Reptile Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_11": {
+        "GXT": "CLO_AWF_O_B_11",
+        "Localized": "Red Reptile Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_12": {
+        "GXT": "CLO_AWF_O_B_12",
+        "Localized": "Blue Galaxy Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_13": {
+        "GXT": "CLO_AWF_O_B_13",
+        "Localized": "Pink Galaxy Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_14": {
+        "GXT": "CLO_AWF_O_B_14",
+        "Localized": "Red & Blue Nebula Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_MORPH_B_15": {
+        "GXT": "CLO_AWF_O_B_15",
+        "Localized": "Blue & Green Nebula Bodysuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_0": {
+        "GXT": "CLO_AWF_O_C_0",
+        "Localized": "Green & Yellow Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_1": {
+        "GXT": "CLO_AWF_O_C_1",
+        "Localized": "Orange Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_2": {
+        "GXT": "CLO_AWF_O_C_2",
+        "Localized": "Flesh Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_3": {
+        "GXT": "CLO_AWF_O_C_3",
+        "Localized": "Light Blue Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_4": {
+        "GXT": "CLO_AWF_O_C_4",
+        "Localized": "Purple Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_5": {
+        "GXT": "CLO_AWF_O_C_5",
+        "Localized": "Green Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_6": {
+        "GXT": "CLO_AWF_O_C_6",
+        "Localized": "Blue Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_7": {
+        "GXT": "CLO_AWF_O_C_7",
+        "Localized": "Blue & Yellow Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_8": {
+        "GXT": "CLO_AWF_O_C_8",
+        "Localized": "Red Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_9": {
+        "GXT": "CLO_AWF_O_C_9",
+        "Localized": "Pink & Blue Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_10": {
+        "GXT": "CLO_AWF_O_C_10",
+        "Localized": "Pink & Yellow Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_A_11": {
+        "GXT": "CLO_AWF_O_C_11",
+        "Localized": "Dark Green Space Creature"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_0": {
+        "GXT": "CLO_AWF_O_D_0",
+        "Localized": "Green & Yellow Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_1": {
+        "GXT": "CLO_AWF_O_D_1",
+        "Localized": "Orange Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_2": {
+        "GXT": "CLO_AWF_O_D_2",
+        "Localized": "Flesh Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_3": {
+        "GXT": "CLO_AWF_O_D_3",
+        "Localized": "Light Blue Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_4": {
+        "GXT": "CLO_AWF_O_D_4",
+        "Localized": "Purple Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_5": {
+        "GXT": "CLO_AWF_O_D_5",
+        "Localized": "Green Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_6": {
+        "GXT": "CLO_AWF_O_D_6",
+        "Localized": "Blue Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_7": {
+        "GXT": "CLO_AWF_O_D_7",
+        "Localized": "Blue & Yellow Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_8": {
+        "GXT": "CLO_AWF_O_D_8",
+        "Localized": "Red Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_9": {
+        "GXT": "CLO_AWF_O_D_9",
+        "Localized": "Pink & Blue Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_10": {
+        "GXT": "CLO_AWF_O_D_10",
+        "Localized": "Pink & Yellow Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_B_11": {
+        "GXT": "CLO_AWF_O_D_11",
+        "Localized": "Dark Green Space Cyclops"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_0": {
+        "GXT": "CLO_AWF_O_E_0",
+        "Localized": "Green & Yellow Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_1": {
+        "GXT": "CLO_AWF_O_E_1",
+        "Localized": "Orange Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_2": {
+        "GXT": "CLO_AWF_O_E_2",
+        "Localized": "Flesh Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_3": {
+        "GXT": "CLO_AWF_O_E_3",
+        "Localized": "Light Blue Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_4": {
+        "GXT": "CLO_AWF_O_E_4",
+        "Localized": "Purple Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_5": {
+        "GXT": "CLO_AWF_O_E_5",
+        "Localized": "Green Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_6": {
+        "GXT": "CLO_AWF_O_E_6",
+        "Localized": "Blue Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_7": {
+        "GXT": "CLO_AWF_O_E_7",
+        "Localized": "Blue & Yellow Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_8": {
+        "GXT": "CLO_AWF_O_E_8",
+        "Localized": "Red Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_9": {
+        "GXT": "CLO_AWF_O_E_9",
+        "Localized": "Pink & Blue Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_10": {
+        "GXT": "CLO_AWF_O_E_10",
+        "Localized": "Pink & Yellow Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_ALIEN_C_11": {
+        "GXT": "CLO_AWF_O_E_11",
+        "Localized": "Dark Green Space Horror"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_0": {
+        "GXT": "CLO_AWF_O_F_0",
+        "Localized": "Red Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_1": {
+        "GXT": "CLO_AWF_O_F_1",
+        "Localized": "Yellow Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_2": {
+        "GXT": "CLO_AWF_O_F_2",
+        "Localized": "Teal Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_3": {
+        "GXT": "CLO_AWF_O_F_3",
+        "Localized": "Brown Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_4": {
+        "GXT": "CLO_AWF_O_F_4",
+        "Localized": "Crowex Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_5": {
+        "GXT": "CLO_AWF_O_F_5",
+        "Localized": "Blue Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_6": {
+        "GXT": "CLO_AWF_O_F_6",
+        "Localized": "White & Blue Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_7": {
+        "GXT": "CLO_AWF_O_F_7",
+        "Localized": "Black & Orange Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_8": {
+        "GXT": "CLO_AWF_O_F_8",
+        "Localized": "Red & Orange Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_9": {
+        "GXT": "CLO_AWF_O_F_9",
+        "Localized": "Green Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_14": {
+        "GXT": "CLO_AWF_O_F_14",
+        "Localized": "Sessanta Nove Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_15": {
+        "GXT": "CLO_AWF_O_F_15",
+        "Localized": "Santo Capra Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_16": {
+        "GXT": "CLO_AWF_O_F_16",
+        "Localized": "Black Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_A_17": {
+        "GXT": "CLO_AWF_O_F_17",
+        "Localized": "Gray Retro Spacesuit"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_0": {
+        "GXT": "CLO_AWF_O_G_0",
+        "Localized": "White Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_1": {
+        "GXT": "CLO_AWF_O_G_1",
+        "Localized": "Tan Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_2": {
+        "GXT": "CLO_AWF_O_G_2",
+        "Localized": "Green Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_3": {
+        "GXT": "CLO_AWF_O_G_3",
+        "Localized": "Brown Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_4": {
+        "GXT": "CLO_AWF_O_G_4",
+        "Localized": "Orange Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_5": {
+        "GXT": "CLO_AWF_O_G_5",
+        "Localized": "Yellow Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_6": {
+        "GXT": "CLO_AWF_O_G_6",
+        "Localized": "Gray Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_B_7": {
+        "GXT": "CLO_AWF_O_G_7",
+        "Localized": "Ash Astronaut"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_0": {
+        "GXT": "CLO_AWF_O_H_0",
+        "Localized": "White Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_1": {
+        "GXT": "CLO_AWF_O_H_1",
+        "Localized": "Black Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_2": {
+        "GXT": "CLO_AWF_O_H_2",
+        "Localized": "Red Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_3": {
+        "GXT": "CLO_AWF_O_H_3",
+        "Localized": "Yellow Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_4": {
+        "GXT": "CLO_AWF_O_H_4",
+        "Localized": "Navy Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_5": {
+        "GXT": "CLO_AWF_O_H_5",
+        "Localized": "Green Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_6": {
+        "GXT": "CLO_AWF_O_H_6",
+        "Localized": "Gray Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_7": {
+        "GXT": "CLO_AWF_O_H_7",
+        "Localized": "White & Yellow Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_8": {
+        "GXT": "CLO_AWF_O_H_8",
+        "Localized": "White & Green Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_SPACE_C_9": {
+        "GXT": "CLO_AWF_O_H_9",
+        "Localized": "Pink Space Traveler"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_CHARACTERS_A_0": {
+        "GXT": "CLO_AWF_O_I_0",
+        "Localized": "The Rookie"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_CHARACTERS_A_1": {
+        "GXT": "CLO_AWF_O_I_1",
+        "Localized": "Pogo Space Monkey"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_CHARACTERS_A_2": {
+        "GXT": "CLO_AWF_O_I_2",
+        "Localized": "Republican Space Ranger"
+    },
+    "DLC_MP_ARENA_F_OUTFIT_EPSILON_0": {
+        "GXT": "CLO_AWF_O_J_0",
+        "Localized": "Epsilon Robes"
+    },
+    "DLC_MP_VWD_F_OUTFIT_IMPRAGE_0": {
+        "GXT": "CLO_VWF_O_0_0",
+        "Localized": "The Impotent Rage"
+    },
+    "DLC_MP_VWD_F_OUTFIT_HIGHROLL_0": {
+        "GXT": "CLO_VWF_O_1_0",
+        "Localized": "The High Roller"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_11": {
+        "GXT": "CLO_H3F_O_DL_11",
+        "Localized": "The Careful"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_12": {
+        "GXT": "CLO_H3F_O_DL_12",
+        "Localized": "The Cautious"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_13": {
+        "GXT": "CLO_H3F_O_DL_13",
+        "Localized": "The Considered"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_14": {
+        "GXT": "CLO_H3F_O_DL_14",
+        "Localized": "The Strict"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_15": {
+        "GXT": "CLO_H3F_O_DL_15",
+        "Localized": "The Correct"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_16": {
+        "GXT": "CLO_H3F_O_DL_16",
+        "Localized": "The Particular"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_21": {
+        "GXT": "CLO_H3F_O_DL_21",
+        "Localized": "The Swanky"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_22": {
+        "GXT": "CLO_H3F_O_DL_22",
+        "Localized": "The Smart"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_23": {
+        "GXT": "CLO_H3F_O_DL_23",
+        "Localized": "The Neat"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_24": {
+        "GXT": "CLO_H3F_O_DL_24",
+        "Localized": "The Spruce"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_25": {
+        "GXT": "CLO_H3F_O_DL_25",
+        "Localized": "The Dashing"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_26": {
+        "GXT": "CLO_H3F_O_DL_26",
+        "Localized": "The Trendy"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_31": {
+        "GXT": "CLO_H3F_O_DL_31",
+        "Localized": "The Proper"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_32": {
+        "GXT": "CLO_H3F_O_DL_32",
+        "Localized": "The Stiff"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_33": {
+        "GXT": "CLO_H3F_O_DL_33",
+        "Localized": "The Prim"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_34": {
+        "GXT": "CLO_H3F_O_DL_34",
+        "Localized": "The Starched"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_35": {
+        "GXT": "CLO_H3F_O_DL_35",
+        "Localized": "The Orderly"
+    },
+    "DLC_MP_H3_F_OUTFIT_DL_36": {
+        "GXT": "CLO_H3F_O_DL_36",
+        "Localized": "The Demure"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_11": {
+        "GXT": "CLO_H3F_O_DH_11",
+        "Localized": "The Woods"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_12": {
+        "GXT": "CLO_H3F_O_DH_12",
+        "Localized": "The Desert"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_13": {
+        "GXT": "CLO_H3F_O_DH_13",
+        "Localized": "The Icefield"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_14": {
+        "GXT": "CLO_H3F_O_DH_14",
+        "Localized": "The Grassland"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_15": {
+        "GXT": "CLO_H3F_O_DH_15",
+        "Localized": "The Glacier"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_16": {
+        "GXT": "CLO_H3F_O_DH_16",
+        "Localized": "The Swamp"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_21": {
+        "GXT": "CLO_H3F_O_DH_21",
+        "Localized": "The Shielded"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_22": {
+        "GXT": "CLO_H3F_O_DH_22",
+        "Localized": "The Safeguard"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_23": {
+        "GXT": "CLO_H3F_O_DH_23",
+        "Localized": "The Fortified"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_24": {
+        "GXT": "CLO_H3F_O_DH_24",
+        "Localized": "The Defended"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_25": {
+        "GXT": "CLO_H3F_O_DH_25",
+        "Localized": "The Secured"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_26": {
+        "GXT": "CLO_H3F_O_DH_26",
+        "Localized": "The Braced"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_31": {
+        "GXT": "CLO_H3F_O_DH_31",
+        "Localized": "The Traverser"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_32": {
+        "GXT": "CLO_H3F_O_DH_32",
+        "Localized": "The Navigator"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_33": {
+        "GXT": "CLO_H3F_O_DH_33",
+        "Localized": "The Router"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_34": {
+        "GXT": "CLO_H3F_O_DH_34",
+        "Localized": "The Wayfarer"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_35": {
+        "GXT": "CLO_H3F_O_DH_35",
+        "Localized": "The Surveyor"
+    },
+    "DLC_MP_H3_F_OUTFIT_DH_36": {
+        "GXT": "CLO_H3F_O_DH_36",
+        "Localized": "The Roamer"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_11": {
+        "GXT": "CLO_H3F_O_SH_11",
+        "Localized": "The Conspirator"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_12": {
+        "GXT": "CLO_H3F_O_SH_12",
+        "Localized": "The Accomplice"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_13": {
+        "GXT": "CLO_H3F_O_SH_13",
+        "Localized": "The Schemer"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_14": {
+        "GXT": "CLO_H3F_O_SH_14",
+        "Localized": "The Associate"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_15": {
+        "GXT": "CLO_H3F_O_SH_15",
+        "Localized": "The Intriguer"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_16": {
+        "GXT": "CLO_H3F_O_SH_16",
+        "Localized": "The Infiltrator"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_21": {
+        "GXT": "CLO_H3F_O_SH_21",
+        "Localized": "The Scout"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_22": {
+        "GXT": "CLO_H3F_O_SH_22",
+        "Localized": "The Mole"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_23": {
+        "GXT": "CLO_H3F_O_SH_23",
+        "Localized": "The Watcher"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_24": {
+        "GXT": "CLO_H3F_O_SH_24",
+        "Localized": "The Vanguard"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_25": {
+        "GXT": "CLO_H3F_O_SH_25",
+        "Localized": "The Planter"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_26": {
+        "GXT": "CLO_H3F_O_SH_26",
+        "Localized": "The Disposer"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_31": {
+        "GXT": "CLO_H3F_O_SH_31",
+        "Localized": "The Shadow"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_32": {
+        "GXT": "CLO_H3F_O_SH_32",
+        "Localized": "The Blotted"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_33": {
+        "GXT": "CLO_H3F_O_SH_33",
+        "Localized": "The Eclipsed"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_34": {
+        "GXT": "CLO_H3F_O_SH_34",
+        "Localized": "The Obscure"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_35": {
+        "GXT": "CLO_H3F_O_SH_35",
+        "Localized": "The Concealed"
+    },
+    "DLC_MP_H3_F_OUTFIT_SH_36": {
+        "GXT": "CLO_H3F_O_SH_36",
+        "Localized": "The Shade"
+    },
+    "DLC_MP_H3_F_OUTFIT_FIB_1": {
+        "GXT": "CLO_H3F_O_FIB_1",
+        "Localized": "The Negotiator"
+    },
+    "DLC_MP_H3_F_OUTFIT_FIB_2": {
+        "GXT": "CLO_H3F_O_FIB_2",
+        "Localized": "The Mediator"
+    },
+    "DLC_MP_H3_F_OUTFIT_FIB_3": {
+        "GXT": "CLO_H3F_O_FIB_3",
+        "Localized": "The Facilitator"
+    },
+    "DLC_MP_H3_F_OUTFIT_FIB_4": {
+        "GXT": "CLO_H3F_O_FIB_4",
+        "Localized": "The Arbitrator"
+    },
+    "DLC_MP_H3_F_OUTFIT_UND_1": {
+        "GXT": "CLO_H3F_O_UND_1",
+        "Localized": "The Ominous"
+    },
+    "DLC_MP_H3_F_OUTFIT_PRP_1": {
+        "GXT": "CLO_H3F_O_PRP_1",
+        "Localized": "The Pickup"
+    },
+    "DLC_MP_H3_F_OUTFIT_PRP_2": {
+        "GXT": "CLO_H3F_O_PRP_2",
+        "Localized": "The Remover"
+    },
+    "DLC_MP_H3_F_OUTFIT_JAN_1": {
+        "GXT": "CLO_H3F_O_JAN_1",
+        "Localized": "The Mender"
+    },
+    "DLC_MP_H3_F_OUTFIT_JAN_2": {
+        "GXT": "CLO_H3F_O_JAN_2",
+        "Localized": "The Sustainer"
+    },
+    "DLC_MP_H3_F_OUTFIT_JAN_3": {
+        "GXT": "CLO_H3F_O_JAN_3",
+        "Localized": "The Obligor"
+    },
+    "DLC_MP_H3_F_OUTFIT_JAN_4": {
+        "GXT": "CLO_H3F_O_JAN_4",
+        "Localized": "The Corrector"
+    },
+    "DLC_MP_H3_F_OUTFIT_JAN_5": {
+        "GXT": "CLO_H3F_O_JAN_5",
+        "Localized": "The Renovator"
+    },
+    "DLC_MP_H3_F_OUTFIT_JAN_6": {
+        "GXT": "CLO_H3F_O_JAN_6",
+        "Localized": "The Welder"
+    },
+    "DLC_MP_H3_F_OUTFIT_CLB_1": {
+        "GXT": "CLO_H3F_O_CLB_1",
+        "Localized": "The Trending"
+    },
+    "DLC_MP_H3_F_OUTFIT_CLB_2": {
+        "GXT": "CLO_H3F_O_CLB_2",
+        "Localized": "The In"
+    },
+    "DLC_MP_H3_F_OUTFIT_CLB_3": {
+        "GXT": "CLO_H3F_O_CLB_3",
+        "Localized": "The Personality"
+    },
+    "DLC_MP_H3_F_OUTFIT_CLB_4": {
+        "GXT": "CLO_H3F_O_CLB_4",
+        "Localized": "The Face"
+    },
+    "DLC_MP_H3_F_OUTFIT_GRP_1": {
+        "GXT": "CLO_H3F_O_GRP_1",
+        "Localized": "The Rigid"
+    },
+    "DLC_MP_H3_F_OUTFIT_GRP_2": {
+        "GXT": "CLO_H3F_O_GRP_2",
+        "Localized": "The Imposer"
+    },
+    "DLC_MP_H3_F_OUTFIT_GRP_3": {
+        "GXT": "CLO_H3F_O_GRP_3",
+        "Localized": "The Shatterproof"
+    },
+    "DLC_MP_H3_F_OUTFIT_GRP_4": {
+        "GXT": "CLO_H3F_O_GRP_4",
+        "Localized": "The Defender"
+    },
+    "DLC_MP_H3_F_OUTFIT_GRP_5": {
+        "GXT": "CLO_H3F_O_GRP_5",
+        "Localized": "The Unbreakable"
+    },
+    "DLC_MP_H3_F_OUTFIT_GRP_6": {
+        "GXT": "CLO_H3F_O_GRP_6",
+        "Localized": "The Enactor"
+    },
+    "DLC_MP_H3_F_OUTFIT_BS_1": {
+        "GXT": "CLO_H3F_O_BS_1",
+        "Localized": "The Debugger"
+    },
+    "DLC_MP_H3_F_OUTFIT_BS_2": {
+        "GXT": "CLO_H3F_O_BS_2",
+        "Localized": "The Sprayer"
+    },
+    "DLC_MP_H3_F_OUTFIT_BS_3": {
+        "GXT": "CLO_H3F_O_BS_3",
+        "Localized": "The Compressor"
+    },
+    "DLC_MP_H3_F_OUTFIT_BS_4": {
+        "GXT": "CLO_H3F_O_BS_4",
+        "Localized": "The Depositor"
+    },
+    "DLC_MP_H3_F_OUTFIT_BS_5": {
+        "GXT": "CLO_H3F_O_BS_5",
+        "Localized": "The Bagger"
+    },
+    "DLC_MP_H3_F_OUTFIT_BS_6": {
+        "GXT": "CLO_H3F_O_BS_6",
+        "Localized": "The Eradicator"
+    },
+    "DLC_MP_H3_F_OUTFIT_FF_1": {
+        "GXT": "CLO_H3F_O_FF_1",
+        "Localized": "The Intrepid"
+    },
+    "DLC_MP_H3_F_OUTFIT_FF_2": {
+        "GXT": "CLO_H3F_O_FF_2",
+        "Localized": "The Valiant"
+    },
+    "DLC_MP_H3_F_OUTFIT_FF_7": {
+        "GXT": "CLO_H3F_O_FF_7",
+        "Localized": "The Steady"
+    },
+    "DLC_MP_H3_F_OUTFIT_FF_8": {
+        "GXT": "CLO_H3F_O_FF_8",
+        "Localized": "The Unwavering"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_11": {
+        "GXT": "CLO_H3F_O_SL_11",
+        "Localized": "The Sneaker"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_12": {
+        "GXT": "CLO_H3F_O_SL_12",
+        "Localized": "The Creeper"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_13": {
+        "GXT": "CLO_H3F_O_SL_13",
+        "Localized": "The Slinker"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_14": {
+        "GXT": "CLO_H3F_O_SL_14",
+        "Localized": "The Lifter"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_15": {
+        "GXT": "CLO_H3F_O_SL_15",
+        "Localized": "The Pilferer"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_16": {
+        "GXT": "CLO_H3F_O_SL_16",
+        "Localized": "The Skulker"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_21": {
+        "GXT": "CLO_H3F_O_SL_21",
+        "Localized": "The Shady"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_22": {
+        "GXT": "CLO_H3F_O_SL_22",
+        "Localized": "The Underhanded"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_23": {
+        "GXT": "CLO_H3F_O_SL_23",
+        "Localized": "The Suspect"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_24": {
+        "GXT": "CLO_H3F_O_SL_24",
+        "Localized": "The Dodgy"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_25": {
+        "GXT": "CLO_H3F_O_SL_25",
+        "Localized": "The Dubious"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_26": {
+        "GXT": "CLO_H3F_O_SL_26",
+        "Localized": "The Unsavoury"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_31": {
+        "GXT": "CLO_H3F_O_SL_31",
+        "Localized": "The Unmoved"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_32": {
+        "GXT": "CLO_H3F_O_SL_32",
+        "Localized": "The Untraceable"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_33": {
+        "GXT": "CLO_H3F_O_SL_33",
+        "Localized": "The No-Frills"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_34": {
+        "GXT": "CLO_H3F_O_SL_34",
+        "Localized": "The Routine"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_35": {
+        "GXT": "CLO_H3F_O_SL_35",
+        "Localized": "The Smooth"
+    },
+    "DLC_MP_H3_F_OUTFIT_SL_36": {
+        "GXT": "CLO_H3F_O_SL_36",
+        "Localized": "The Offhand"
+    },
+    "DLC_MP_H3_F_OUTFIT_VAL_1": {
+        "GXT": "CLO_H3F_O_VAL_1",
+        "Localized": "Valet"
+    },
+    "DLC_MP_H3_F_OUTFIT_PR_1": {
+        "GXT": "CLO_H3F_O_PR_1",
+        "Localized": "The Steadfast"
+    },
+    "DLC_MP_H3_F_OUTFIT_PR_2": {
+        "GXT": "CLO_H3F_O_PR_2",
+        "Localized": "The No-Nonsense"
+    },
+    "DLC_MP_H3_F_OUTFIT_PR_3": {
+        "GXT": "CLO_H3F_O_PR_3",
+        "Localized": "The Austere"
+    },
+    "DLC_MP_H3_F_OUTFIT_PR_4": {
+        "GXT": "CLO_H3F_O_PR_4",
+        "Localized": "The Exacting"
+    },
+    "DLC_MP_SUM_F_OUTFIT_0": {
+        "GXT": "CLO_SUF_O_0",
+        "Localized": "NULL"
+    },
+    "DLC_MP_SUM_F_OUTFIT_1": {
+        "GXT": "CLO_SUF_O_1",
+        "Localized": "Space Interloper"
+    },
+    "DLC_MP_SUM_F_OUTFIT_2": {
+        "GXT": "CLO_SUF_O_2",
+        "Localized": "Yacht Captain"
+    },
+    "DLC_MP_H4_F_OUTFIT_SM_F1": {
+        "GXT": "CLO_H4F_O_SM_F1",
+        "Localized": "The Big Dog"
+    },
+    "DLC_MP_H4_F_OUTFIT_SM_F2": {
+        "GXT": "CLO_H4F_O_SM_F2",
+        "Localized": "The City Slicker"
+    },
+    "DLC_MP_H4_F_OUTFIT_SM_F3": {
+        "GXT": "CLO_H4F_O_SM_F3",
+        "Localized": "The Smart Casual"
+    },
+    "DLC_MP_H4_F_OUTFIT_SM_F4": {
+        "GXT": "CLO_H4F_O_SM_F4",
+        "Localized": "The Standby"
+    },
+    "DLC_MP_H4_F_OUTFIT_H1_F1": {
+        "GXT": "CLO_H4F_O_H1_F1",
+        "Localized": "The Newbie"
+    },
+    "DLC_MP_H4_F_OUTFIT_H1_F2": {
+        "GXT": "CLO_H4F_O_H1_F2",
+        "Localized": "The Polished"
+    },
+    "DLC_MP_H4_F_OUTFIT_H1_F3": {
+        "GXT": "CLO_H4F_O_H1_F3",
+        "Localized": "The Star"
+    },
+    "DLC_MP_H4_F_OUTFIT_H1_F4": {
+        "GXT": "CLO_H4F_O_H1_F4",
+        "Localized": "The Visionary"
+    },
+    "DLC_MP_H4_F_OUTFIT_H2_F1": {
+        "GXT": "CLO_H4F_O_H2_F1",
+        "Localized": "The Naturalist"
+    },
+    "DLC_MP_H4_F_OUTFIT_H2_F2": {
+        "GXT": "CLO_H4F_O_H2_F2",
+        "Localized": "The Tracker"
+    },
+    "DLC_MP_H4_F_OUTFIT_H2_F3": {
+        "GXT": "CLO_H4F_O_H2_F3",
+        "Localized": "The Coordinator"
+    },
+    "DLC_MP_H4_F_OUTFIT_H2_F4": {
+        "GXT": "CLO_H4F_O_H2_F4",
+        "Localized": "The Analyst"
+    },
+    "DLC_MP_H4_F_OUTFIT_L1_F1": {
+        "GXT": "CLO_H4F_O_L1_F1",
+        "Localized": "The Islander"
+    },
+    "DLC_MP_H4_F_OUTFIT_L1_F2": {
+        "GXT": "CLO_H4F_O_L1_F2",
+        "Localized": "The Beached"
+    },
+    "DLC_MP_H4_F_OUTFIT_L1_F3": {
+        "GXT": "CLO_H4F_O_L1_F3",
+        "Localized": "The Fanboy"
+    },
+    "DLC_MP_H4_F_OUTFIT_L1_F4": {
+        "GXT": "CLO_H4F_O_L1_F4",
+        "Localized": "The Lounger"
+    },
+    "DLC_MP_H4_F_OUTFIT_L2_F1": {
+        "GXT": "CLO_H4F_O_L2_F1",
+        "Localized": "The Logician"
+    },
+    "DLC_MP_H4_F_OUTFIT_L2_F2": {
+        "GXT": "CLO_H4F_O_L2_F2",
+        "Localized": "The Escapologist"
+    },
+    "DLC_MP_H4_F_OUTFIT_L2_F3": {
+        "GXT": "CLO_H4F_O_L2_F3",
+        "Localized": "The Pugilist"
+    },
+    "DLC_MP_H4_F_OUTFIT_L2_F4": {
+        "GXT": "CLO_H4F_O_L2_F4",
+        "Localized": "The Agitator"
+    },
+    "DLC_MP_H4_F_OUTFIT_S1_F1": {
+        "GXT": "CLO_H4F_O_S1_F1",
+        "Localized": "The Spectre"
+    },
+    "DLC_MP_H4_F_OUTFIT_S1_F2": {
+        "GXT": "CLO_H4F_O_S1_F2",
+        "Localized": "The Culprit"
+    },
+    "DLC_MP_H4_F_OUTFIT_S1_F3": {
+        "GXT": "CLO_H4F_O_S1_F3",
+        "Localized": "The Sleuth"
+    },
+    "DLC_MP_H4_F_OUTFIT_S1_F4": {
+        "GXT": "CLO_H4F_O_S1_F4",
+        "Localized": "The Deflector"
+    },
+    "DLC_MP_H4_F_OUTFIT_S2_F1": {
+        "GXT": "CLO_H4F_O_S2_F1",
+        "Localized": "The Python"
+    },
+    "DLC_MP_H4_F_OUTFIT_S2_F2": {
+        "GXT": "CLO_H4F_O_S2_F2",
+        "Localized": "The Jaguar"
+    },
+    "DLC_MP_H4_F_OUTFIT_S2_F3": {
+        "GXT": "CLO_H4F_O_S2_F3",
+        "Localized": "The Caiman"
+    },
+    "DLC_MP_H4_F_OUTFIT_S2_F4": {
+        "GXT": "CLO_H4F_O_S2_F4",
+        "Localized": "The Anaconda"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_FRONTIER": {
+        "GXT": "CLO_TRF_O_FRONT",
+        "Localized": "The Frontier"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_BOILER_0": {
+        "GXT": "CLO_TRF_O_BS_0",
+        "Localized": "Penitentiary Coveralls"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_BOILER_1": {
+        "GXT": "CLO_TRF_O_BS_1",
+        "Localized": "LS Customs Coveralls"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_MORPH_0": {
+        "GXT": "CLO_TRF_O_MS_0",
+        "Localized": "eCola Bodysuit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_MORPH_1": {
+        "GXT": "CLO_TRF_O_MS_1",
+        "Localized": "Sprunk Bodysuit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_DOCK_1": {
+        "GXT": "CLO_TRF_O_D1",
+        "Localized": "The Old Hand"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_DOCK_2": {
+        "GXT": "CLO_TRF_O_D2",
+        "Localized": "The Overworked"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_DOCK_3": {
+        "GXT": "CLO_TRF_O_D3",
+        "Localized": "The Longshoreman"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_DOCK_4": {
+        "GXT": "CLO_TRF_O_D4",
+        "Localized": "The Underpaid"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_LMC_1": {
+        "GXT": "CLO_TRF_O_L1",
+        "Localized": "The Ringleader"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_LMC_2": {
+        "GXT": "CLO_TRF_O_L2",
+        "Localized": "The Knuckles"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_LMC_3": {
+        "GXT": "CLO_TRF_O_L3",
+        "Localized": "The Breaker"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_LMC_4": {
+        "GXT": "CLO_TRF_O_L4",
+        "Localized": "The Dealer"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_1": {
+        "GXT": "CLO_TRF_O_R1",
+        "Localized": "Dark Benefactor Racing Suit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_2": {
+        "GXT": "CLO_TRF_O_R2",
+        "Localized": "Gray Benefactor Racing Suit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_3": {
+        "GXT": "CLO_TRF_O_R3",
+        "Localized": "Green Crowex Pro Racing Suit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_4": {
+        "GXT": "CLO_TRF_O_R4",
+        "Localized": "Black Crowex Pro Racing Suit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_5": {
+        "GXT": "CLO_TRF_O_R5",
+        "Localized": "Blue Xero Gas Racing Suit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_6": {
+        "GXT": "CLO_TRF_O_R6",
+        "Localized": "Red Xero Gas Racing Suit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_7": {
+        "GXT": "CLO_TRF_O_R7",
+        "Localized": "Wildstyle Racing Suit"
+    },
+    "DLC_MP_TUNER_F_OUTFIT_RACE_8": {
+        "GXT": "CLO_TRF_O_R8",
+        "Localized": "Tuned For Speed Racing Suit"
+    },
+    "DLC_MP_FIXER_F_OUTFIT_GOLF_1": {
+        "GXT": "CLO_FXF_O_G_1",
+        "Localized": "The Drive"
+    },
+    "DLC_MP_FIXER_F_OUTFIT_GOLF_2": {
+        "GXT": "CLO_FXF_O_G_2",
+        "Localized": "The Putt"
+    },
+    "DLC_MP_FIXER_F_OUTFIT_GOLF_3": {
+        "GXT": "CLO_FXF_O_G_3",
+        "Localized": "The Chip"
+    },
+    "DLC_MP_FIXER_F_OUTFIT_GOLF_4": {
+        "GXT": "CLO_FXF_O_G_4",
+        "Localized": "The Birdie"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_1": {
+        "GXT": "CLO_G9F_O_R1",
+        "Localized": "CMYK Glitch HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_2": {
+        "GXT": "CLO_G9F_O_R2",
+        "Localized": "Sunset Glitch HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_3": {
+        "GXT": "CLO_G9F_O_R3",
+        "Localized": "Vibrant Pixel HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_4": {
+        "GXT": "CLO_G9F_O_R4",
+        "Localized": "Cool Pixel HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_5": {
+        "GXT": "CLO_G9F_O_R5",
+        "Localized": "Bright Noise HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_6": {
+        "GXT": "CLO_G9F_O_R6",
+        "Localized": "Cool Noise HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_7": {
+        "GXT": "CLO_G9F_O_R7",
+        "Localized": "Red Geo HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_8": {
+        "GXT": "CLO_G9F_O_R8",
+        "Localized": "Yellow Geo HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_9": {
+        "GXT": "CLO_G9F_O_R9",
+        "Localized": "Orange Trip HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_10": {
+        "GXT": "CLO_G9F_O_R10",
+        "Localized": "Blue Trip HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_11": {
+        "GXT": "CLO_G9F_O_R11",
+        "Localized": "Bold Shock HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_12": {
+        "GXT": "CLO_G9F_O_R12",
+        "Localized": "Vibrant Shock HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_13": {
+        "GXT": "CLO_G9F_O_R13",
+        "Localized": "Vivid Torn HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_14": {
+        "GXT": "CLO_G9F_O_R14",
+        "Localized": "Neon Torn HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_15": {
+        "GXT": "CLO_G9F_O_R15",
+        "Localized": "Warm Warped HSW Racing Suit"
+    },
+    "DLC_MP_G9EC_F_OUTFIT_RACE_16": {
+        "GXT": "CLO_G9F_O_R16",
+        "Localized": "Wild Warped HSW Racing Suit"
+    },
+    "DLC_MP_SUM2_F_OUTFIT_SASQUATCH": {
+        "GXT": "CLO_SBF_O_SAS",
+        "Localized": "Sasquatch"
+    },
+    "DLC_MP_SUM2_G9EC_F_OUTFIT_MUMMY": {
+        "GXT": "CLO_E1F_O_MUM",
+        "Localized": "NULL"
+    },
+    "DLC_MP_X22_F_OUTFIT_0": {
+        "GXT": "CLO_X6F_O_0",
+        "Localized": "The Nutcracker"
+    },
+    "DLC_MP_X22_F_OUTFIT_1": {
+        "GXT": "CLO_X6F_O_1",
+        "Localized": "The GoPostal"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_0": {
+        "GXT": "CLO_X6F_O_O_0",
+        "Localized": "Black Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_1": {
+        "GXT": "CLO_X6F_O_O_1",
+        "Localized": "Dark Gray Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_2": {
+        "GXT": "CLO_X6F_O_O_2",
+        "Localized": "Gray Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_3": {
+        "GXT": "CLO_X6F_O_O_3",
+        "Localized": "Ice Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_4": {
+        "GXT": "CLO_X6F_O_O_4",
+        "Localized": "Beige Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_5": {
+        "GXT": "CLO_X6F_O_O_5",
+        "Localized": "Chocolate Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_6": {
+        "GXT": "CLO_X6F_O_O_6",
+        "Localized": "Burgundy Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_7": {
+        "GXT": "CLO_X6F_O_O_7",
+        "Localized": "Hot Pink Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_8": {
+        "GXT": "CLO_X6F_O_O_8",
+        "Localized": "Scarlet Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_9": {
+        "GXT": "CLO_X6F_O_O_9",
+        "Localized": "Orange Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_10": {
+        "GXT": "CLO_X6F_O_O_10",
+        "Localized": "Amber Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_11": {
+        "GXT": "CLO_X6F_O_O_11",
+        "Localized": "Lemon Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_12": {
+        "GXT": "CLO_X6F_O_O_12",
+        "Localized": "Royal Blue Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_13": {
+        "GXT": "CLO_X6F_O_O_13",
+        "Localized": "Blue Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_14": {
+        "GXT": "CLO_X6F_O_O_14",
+        "Localized": "Teal Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_15": {
+        "GXT": "CLO_X6F_O_O_15",
+        "Localized": "Cyan Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_16": {
+        "GXT": "CLO_X6F_O_O_16",
+        "Localized": "Light Blue Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_17": {
+        "GXT": "CLO_X6F_O_O_17",
+        "Localized": "Lilac Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_18": {
+        "GXT": "CLO_X6F_O_O_18",
+        "Localized": "Dark Green Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_19": {
+        "GXT": "CLO_X6F_O_O_19",
+        "Localized": "Emerald Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_20": {
+        "GXT": "CLO_X6F_O_O_20",
+        "Localized": "Moss Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_21": {
+        "GXT": "CLO_X6F_O_O_21",
+        "Localized": "Lime Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_22": {
+        "GXT": "CLO_X6F_O_O_22",
+        "Localized": "Peach Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_23": {
+        "GXT": "CLO_X6F_O_O_23",
+        "Localized": "Lavender Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_24": {
+        "GXT": "CLO_X6F_O_O_24",
+        "Localized": "Purple Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_O_25": {
+        "GXT": "CLO_X6F_O_O_25",
+        "Localized": "Magenta Onesie"
+    },
+    "DLC_MP_X22_F_OUTFIT_2": {
+        "GXT": "CLO_X6F_O_2",
+        "Localized": "The Red-nosed"
+    },
+    "DLC_MP_X22_F_OUTFIT_3": {
+        "GXT": "CLO_X6F_O_3",
+        "Localized": "The Snowman"
+    }
+}
